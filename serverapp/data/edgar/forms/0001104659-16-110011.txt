@@ -1,0 +1,102 @@
+<SEC-DOCUMENT>0001104659-16-110011.txt : 20160406
+<SEC-HEADER>0001104659-16-110011.hdr.sgml : 20160406
+<ACCEPTANCE-DATETIME>20160406060537
+ACCESSION NUMBER:		0001104659-16-110011
+CONFORMED SUBMISSION TYPE:	13F-NT
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20160331
+FILED AS OF DATE:		20160406
+DATE AS OF CHANGE:		20160406
+EFFECTIVENESS DATE:		20160406
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Overlook Investments (BVI) Ltd
+		CENTRAL INDEX KEY:			0001569762
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			D8
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-NT
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-15394
+		FILM NUMBER:		161556486
+
+	BUSINESS ADDRESS:	
+		STREET 1:		TMF PLACE, P.O. BOX 964
+		STREET 2:		ROAD TOWN
+		CITY:			TORTOLA
+		STATE:			D8
+		ZIP:			VG1110
+		BUSINESS PHONE:		852-2912-0800
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O OVERLOOK INVESTMENTS LIMITED
+		STREET 2:		22/F RUTTONJEE HOUSE, 11 DUDDELL STREET
+		CITY:			HONG KONG
+		STATE:			K3
+		ZIP:			00000
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-NT
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xsi:schemaLocation="http://www.sec.gov/edgar/thirteenffiler eis_13F_Filer.xsd" xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:ns1="http://www.sec.gov/edgar/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <headerData>
+    <submissionType>13F-NT</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <filer>
+        <credentials>
+          <cik>0001569762</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>03-31-2016</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>03-31-2016</reportCalendarOrQuarter>
+      <isAmendment>false</isAmendment>
+      <filingManager>
+        <name>Overlook Investments (BVI) Ltd</name>
+        <address>
+          <ns1:street1>C/O OVERLOOK INVESTMENTS LIMITED</ns1:street1>
+          <ns1:street2>22/F RUTTONJEE HOUSE, 11 DUDDELL STREET</ns1:street2>
+          <ns1:city>HONG KONG</ns1:city>
+          <ns1:stateOrCountry>K3</ns1:stateOrCountry>
+          <ns1:zipCode>00000</ns1:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F NOTICE</reportType>
+      <form13FFileNumber>028-15394</form13FFileNumber>
+      <otherManagersInfo>
+        <otherManager>
+          <cik>0001569857</cik>
+          <form13FFileNumber>028-15402</form13FFileNumber>
+          <name>Overlook Holdings Ltd</name>
+        </otherManager>
+      </otherManagersInfo>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>MICHAEL LONERGAN</name>
+      <title>DIRECTOR</title>
+      <phone>852 2912 0805</phone>
+      <signature>/s/ MICHAEL LONERGAN</signature>
+      <city>HONG KONG</city>
+      <stateOrCountry>K3</stateOrCountry>
+      <signatureDate>04-06-2016</signatureDate>
+    </signatureBlock>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

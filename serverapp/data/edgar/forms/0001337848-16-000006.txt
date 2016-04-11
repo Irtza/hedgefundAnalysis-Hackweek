@@ -1,0 +1,106 @@
+<SEC-DOCUMENT>0001337848-16-000006.txt : 20160404
+<SEC-HEADER>0001337848-16-000006.hdr.sgml : 20160404
+<ACCEPTANCE-DATETIME>20160404153146
+ACCESSION NUMBER:		0001337848-16-000006
+CONFORMED SUBMISSION TYPE:	13F-NT
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20160331
+FILED AS OF DATE:		20160404
+DATE AS OF CHANGE:		20160404
+EFFECTIVENESS DATE:		20160404
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Research Affiliates, LLC
+		CENTRAL INDEX KEY:			0001337848
+		IRS NUMBER:				020570299
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-NT
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-11483
+		FILM NUMBER:		161550379
+
+	BUSINESS ADDRESS:	
+		STREET 1:		620 NEWPORT CENETR DRIVE
+		STREET 2:		SUITE 900
+		CITY:			NEWPORT BEACH
+		STATE:			CA
+		ZIP:			92660
+		BUSINESS PHONE:		9493258700
+
+	MAIL ADDRESS:	
+		STREET 1:		620 NEWPORT CENETR DRIVE
+		STREET 2:		SUITE 900
+		CITY:			NEWPORT BEACH
+		STATE:			CA
+		ZIP:			92660
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-NT
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>13F-NT</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>true</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001337848</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>03-31-2016</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>03-31-2016</reportCalendarOrQuarter>
+      <filingManager>
+        <name>Research Affiliates, LLC</name>
+        <address>
+          <com:street1>620 NEWPORT CENETR DRIVE</com:street1>
+          <com:street2>SUITE 900</com:street2>
+          <com:city>NEWPORT BEACH</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>92660</com:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F NOTICE</reportType>
+      <form13FFileNumber>028-11483</form13FFileNumber>
+      <otherManagersInfo>
+        <otherManager>
+          <cik>0000932859</cik>
+          <form13FFileNumber>028-04558</form13FFileNumber>
+          <name>PARAMETRIC PORTFOLIO ASSOCIATES LLC</name>
+        </otherManager>
+      </otherManagersInfo>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>JEFFREY SMITH</name>
+      <title>CHIEF COMPLIANCE OFFICER</title>
+      <phone>949-325-8747</phone>
+      <signature>JEFFREY SMITH</signature>
+      <city>Newport Beach</city>
+      <stateOrCountry>CA</stateOrCountry>
+      <signatureDate>04-04-2016</signatureDate>
+    </signatureBlock>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

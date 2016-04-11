@@ -1,0 +1,101 @@
+<SEC-DOCUMENT>0001547676-16-000012.txt : 20160405
+<SEC-HEADER>0001547676-16-000012.hdr.sgml : 20160405
+<ACCEPTANCE-DATETIME>20160405090847
+ACCESSION NUMBER:		0001547676-16-000012
+CONFORMED SUBMISSION TYPE:	13F-NT
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20160331
+FILED AS OF DATE:		20160405
+DATE AS OF CHANGE:		20160405
+EFFECTIVENESS DATE:		20160405
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Swedbank Robur Fonder AB
+		CENTRAL INDEX KEY:			0001547676
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			V7
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-NT
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-16445
+		FILM NUMBER:		161553088
+
+	BUSINESS ADDRESS:	
+		STREET 1:		105 34
+		CITY:			STOCKHOLM
+		STATE:			V7
+		ZIP:			105 34
+		BUSINESS PHONE:		0046858590000
+
+	MAIL ADDRESS:	
+		STREET 1:		105 34
+		CITY:			STOCKHOLM
+		STATE:			V7
+		ZIP:			105 34
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-NT
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>13F-NT</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>true</returnCopyFlag>
+        <overrideInternetFlag>true</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001547676</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>03-31-2016</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>03-31-2016</reportCalendarOrQuarter>
+      <filingManager>
+        <name>Swedbank Robur Fonder AB</name>
+        <address>
+          <com:street1>105 34</com:street1>
+          <com:city>STOCKHOLM</com:city>
+          <com:stateOrCountry>V7</com:stateOrCountry>
+          <com:zipCode>105 34</com:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F NOTICE</reportType>
+      <form13FFileNumber>028-16445</form13FFileNumber>
+      <otherManagersInfo>
+        <otherManager>
+          <name>Swedbank AB (publ)</name>
+        </otherManager>
+      </otherManagersInfo>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Marianne Nilsson</name>
+      <title>Deputy Managing Director</title>
+      <phone>0046858592400</phone>
+      <signature>Marianne Nilsson</signature>
+      <city>Stockholm</city>
+      <stateOrCountry>V7</stateOrCountry>
+      <signatureDate>04-05-2016</signatureDate>
+    </signatureBlock>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

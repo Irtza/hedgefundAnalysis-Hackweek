@@ -1,0 +1,1186 @@
+<SEC-DOCUMENT>0001193125-16-532240.txt : 20160406
+<SEC-HEADER>0001193125-16-532240.hdr.sgml : 20160406
+<ACCEPTANCE-DATETIME>20160406163639
+ACCESSION NUMBER:		0001193125-16-532240
+CONFORMED SUBMISSION TYPE:	S-1/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20160406
+DATE AS OF CHANGE:		20160406
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Aeglea BioTherapeutics, Inc.
+		CENTRAL INDEX KEY:			0001636282
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				464312787
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		S-1/A
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	333-205001
+		FILM NUMBER:		161557850
+
+	BUSINESS ADDRESS:	
+		STREET 1:		901 S. MOPAC EXPRESSWAY, STE. 250
+		STREET 2:		BARTON OAKS PLAZA ONE
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78746
+		BUSINESS PHONE:		(512) 942-2935
+
+	MAIL ADDRESS:	
+		STREET 1:		901 S. MOPAC EXPRESSWAY, STE. 250
+		STREET 2:		BARTON OAKS PLAZA ONE
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78746
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>S-1/A
+<SEQUENCE>1
+<FILENAME>d50169ds1a.htm
+<DESCRIPTION>S-1/A
+<TEXT>
+<HTML><HEAD>
+<TITLE>S-1/A</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+  <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>As filed with the Securities and Exchange Commission on April 6, 2016 </B></P>
+<P STYLE="margin-top:1pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="right"><B>Registration&nbsp;No.&nbsp;333-205001 </B></P> <P STYLE="font-size:3pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:3.00pt solid #000000">&nbsp;</P> <P STYLE="line-height:1.5pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="margin-top:2pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="center"><B>UNITED STATES SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="center"><B>Washington, DC 20549 </B></P> <P STYLE="font-size:3pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:4.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000;width:26%">&nbsp;</P></center>  <P STYLE="margin-top:3pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>AMENDMENT NO. 5
+</B></P>  <P STYLE="margin-top:3pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>TO </B></P> <P STYLE="margin-top:3pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>FORM S-1 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="center"><B>REGISTRATION STATEMENT UNDER THE SECURITIES ACT OF 1933 </B></P> <P STYLE="font-size:3pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:4.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000;width:26%">&nbsp;</P></center> <P STYLE="margin-top:3pt; margin-bottom:0pt; font-size:14pt; font-family:ARIAL" ALIGN="center"><B>A<SMALL>EGLEA</SMALL>
+B<SMALL>IO</SMALL>T<SMALL>HERAPEUTICS</SMALL>, I<SMALL>NC</SMALL>. </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8.5pt; font-family:ARIAL" ALIGN="center"><I>(Exact name of registrant as specified in its charter) </I></P>
+<P STYLE="font-size:3pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:4.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000;width:26%">&nbsp;</P></center>
+<P STYLE="font-size:3pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="font-family:ARIAL; font-size:8.5pt">
+<TD VALIGN="top" ALIGN="center"><B>Delaware</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>2834</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>46-4312787</B></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><I>(State or other jurisdiction of</I></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><I>incorporation or organization)</I></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><I>(Primary Standard Industrial</I></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><I>Classification Code Number)</I></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><I>(I.R.S. Employer</I></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><I>Identification Number)</I></P></TD></TR>
+</TABLE> <P STYLE="font-size:3pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:4.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000;width:26%">&nbsp;</P></center>
+<P STYLE="margin-top:3pt; margin-bottom:0pt; font-size:8.5pt; font-family:ARIAL" ALIGN="center"><B>Aeglea BioTherapeutics, Inc. </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8.5pt; font-family:ARIAL" ALIGN="center"><B>901 S. MoPac
+Expressway </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8.5pt; font-family:ARIAL" ALIGN="center"><B>Barton Oaks Plaza One </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8.5pt; font-family:ARIAL" ALIGN="center"><B>Suite 250 </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8.5pt; font-family:ARIAL" ALIGN="center"><B>Austin, TX 78746 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8.5pt; font-family:ARIAL" ALIGN="center"><B>(512) 942-2935 </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><I>(Address, including zip code,
+and telephone number, including area code, of registrant&#146;s principal executive offices) </I></P> <P STYLE="font-size:3pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:4.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000;width:26%">&nbsp;</P></center> <P STYLE="margin-top:3pt; margin-bottom:0pt; font-size:8.5pt; font-family:ARIAL" ALIGN="center"><B>David G. Lowe, Ph.D.
+</B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8.5pt; font-family:ARIAL" ALIGN="center"><B>Chief Executive Officer </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8.5pt; font-family:ARIAL" ALIGN="center"><B>Aeglea
+BioTherapeutics, Inc. </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8.5pt; font-family:ARIAL" ALIGN="center"><B>901 S. MoPac Expressway </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8.5pt; font-family:ARIAL" ALIGN="center"><B>Barton Oaks Plaza One </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8.5pt; font-family:ARIAL" ALIGN="center"><B>Suite 250 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8.5pt; font-family:ARIAL" ALIGN="center"><B>Austin, TX 78746 </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8.5pt; font-family:ARIAL" ALIGN="center"><B>(512) 942-2935 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><I>(Name, address, including zip code, and telephone number, including area code, of agent for service) </I></P>
+<P STYLE="margin-top:3pt; margin-bottom:0pt; font-size:8.5pt; font-family:ARIAL" ALIGN="center"><B>Copies to: </B></P> <P STYLE="font-size:3pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:8.5pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="font-family:ARIAL; font-size:8.5pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8.5pt; font-family:ARIAL" ALIGN="center"><B>Effie Toshav, Esq.</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8.5pt; font-family:ARIAL" ALIGN="center"><B>Robert A. Freedman, Esq.</B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8.5pt; font-family:ARIAL" ALIGN="center"><B>Matthew S.
+Rossiter, Esq.</B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8.5pt; font-family:ARIAL" ALIGN="center"><B>Fenwick &amp; West LLP</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8.5pt; font-family:ARIAL" ALIGN="center"><B>555 California Street</B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8.5pt; font-family:ARIAL" ALIGN="center"><B>San Francisco, CA
+94104</B></P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8.5pt; font-family:ARIAL" ALIGN="center"><B>(415) 875-2300</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8.5pt; font-family:ARIAL" ALIGN="center"><B>Bruce K. Dallas, Esq.</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8.5pt; font-family:ARIAL" ALIGN="center"><B>Davis Polk &amp; Wardwell LLP</B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8.5pt; font-family:ARIAL" ALIGN="center"><B>1600 El
+Camino Real</B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8.5pt; font-family:ARIAL" ALIGN="center"><B>Menlo Park, CA 94025</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8.5pt; font-family:ARIAL" ALIGN="center"><B>(650) 752-2000</B></P></TD></TR>
+</TABLE> <P STYLE="font-size:3pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:4.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000;width:26%">&nbsp;</P></center>
+<P STYLE="margin-top:3pt; margin-bottom:0pt; text-indent:3%; font-size:8pt; font-family:ARIAL"><B>Approximate date of commencement of proposed sale to the public:</B> As soon as practicable after the effective date of this registration statement.<B>
+</B></P> <P STYLE="margin-top:3pt; margin-bottom:0pt; text-indent:3%; font-size:8pt; font-family:ARIAL">If any of the securities being registered on this form are to be offered on a delayed or continuous basis pursuant to Rule&nbsp;415 under the
+Securities Act of 1933 check the following box.&nbsp;&nbsp;&nbsp;&nbsp;<FONT STYLE="font-family:Times New Roman"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT> </P>
+<P STYLE="margin-top:3pt; margin-bottom:0pt; text-indent:3%; font-size:8pt; font-family:ARIAL">If this form is filed to register additional securities for an offering pursuant to Rule 462(b) under the Securities Act, check the following box and list
+the Securities Act registration statement number of the earlier effective registration statement for the same offering.&nbsp;&nbsp;&nbsp;&nbsp;<FONT STYLE="font-family:Times New Roman"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT> </P>
+<P STYLE="margin-top:3pt; margin-bottom:0pt; text-indent:3%; font-size:8pt; font-family:ARIAL">If this form is a post-effective amendment filed pursuant to Rule 462(c) under the Securities Act, check the following box and list the Securities Act
+registration statement number of the earlier effective registration statement for the same offering.&nbsp;&nbsp;&nbsp;&nbsp;<FONT STYLE="font-family:Times New Roman"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT> </P>
+<P STYLE="margin-top:3pt; margin-bottom:0pt; text-indent:3%; font-size:8pt; font-family:ARIAL">If this form is a post-effective amendment filed pursuant to Rule&nbsp;462(d) under the Securities Act, check the following box and list the Securities
+Act registration number of the earlier effective registration statement for the same offering.&nbsp;&nbsp;&nbsp;&nbsp;<FONT STYLE="font-family:Times New Roman"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT> </P>
+<P STYLE="margin-top:3pt; margin-bottom:0pt; text-indent:3%; font-size:8pt; font-family:ARIAL">Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company.
+See the definitions of &#147;large accelerated filer,&#148; &#147;accelerated filer&#148; and &#147;smaller reporting company&#148; in Rule 12b-2 of the Exchange Act. (Check one): </P>
+<P STYLE="font-size:3pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="18%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="17%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="41%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="21%"></TD></TR>
+
+
+<TR STYLE="font-family:ARIAL; font-size:8pt">
+<TD VALIGN="top">Large&nbsp;accelerated&nbsp;filer&nbsp;&nbsp;<FONT STYLE="font-family:Times New Roman"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">Accelerated&nbsp;filer&nbsp;&nbsp;<FONT STYLE="font-family:Times New Roman"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center">Non-accelerated&nbsp;filer&nbsp;&nbsp;<FONT STYLE="font-family:Times New Roman"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT></FONT></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:ARIAL" ALIGN="center">(Do&nbsp;not&nbsp;check&nbsp;if&nbsp;a&nbsp;smaller&nbsp;reporting&nbsp;company)</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">Smaller&nbsp;reporting&nbsp;company&nbsp;&nbsp;<FONT STYLE="font-family:Times New Roman"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:3pt; margin-bottom:0pt; font-size:8.5pt; font-family:ARIAL" ALIGN="center"><B>CALCULATION OF REGISTRATION FEE </B></P> <P STYLE="font-size:4pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="72%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="13%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="13%"></TD></TR>
+
+
+<TR STYLE="font-size:1px; ">
+<TD COLSPAN="5" VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt ;border-top:1.00px solid #000000">&nbsp;</P></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:8pt">
+<TD VALIGN="bottom" ALIGN="center" STYLE="BORDER-TOP:1px solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>TITLE OF EACH CLASS OF</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>SECURITIES TO BE REGISTERED</B></P></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center" STYLE="BORDER-TOP:1px solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>PROPOSED<BR>MAXIMUM</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>AGGREGATE<BR>OFFERING</B></P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>PRICE(1)(2)</B></P></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center" STYLE="BORDER-TOP:1px solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>AMOUNT OF</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>REGISTRATION<BR>FEE</B></P></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:8pt">
+<TD VALIGN="top" STYLE="BORDER-TOP:1px solid #000000"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt ;margin-left:1.00em; text-indent:-1.00em; font-size:8pt; font-family:ARIAL">Common stock, $0.0001 par value per share</P></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center" STYLE="BORDER-TOP:1px solid #000000">72,450,000</TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center" STYLE="BORDER-TOP:1px solid #000000">$8,419(3)</TD></TR>
+<TR STYLE="font-size:1px; ">
+<TD COLSPAN="5" VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt ;border-top:1.00px solid #000000">&nbsp;</P></TD></TR>
+<TR STYLE="font-size:1px; ">
+<TD COLSPAN="5" VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt ;border-top:1.00px solid #000000">&nbsp;</P></TD></TR>
+</TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:8pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">(1)</TD>
+<TD ALIGN="left" VALIGN="top">Includes the offering price of additional shares that the underwriters have the option to purchase. </TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:8pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">(2)</TD>
+<TD ALIGN="left" VALIGN="top">Estimated solely for the purpose of calculating the amount of the registration fee in accordance with Rule 457(o) of the Securities Act of 1933, as amended. </TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:8pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">(3)</TD>
+<TD ALIGN="left" VALIGN="top">The Registrant previously paid $10,023 of the total registration fee in connection with prior filings of this Registration Statement. </TD></TR></TABLE>
+<P STYLE="margin-top:2pt; margin-bottom:0pt; text-indent:3%; font-size:8.5pt; font-family:ARIAL"><B>The Registrant hereby amends this Registration Statement on such date or dates as may be necessary to delay its effective date until the Registrant
+shall file a further amendment which specifically states that this Registration Statement shall thereafter become effective in accordance with Section&nbsp;8(a) of the Securities Act of 1933, as amended, or until the Registration Statement shall
+become effective on such date as the Securities and Exchange Commission, acting pursuant to said Section&nbsp;8(a), may determine. </B></P> <P STYLE="font-size:3pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="line-height:4.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:3.00pt solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>PART II </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>INFORMATION NOT REQUIRED IN PROSPECTUS </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL"><B>ITEM&nbsp;13.
+OTHER EXPENSES OF ISSUANCE AND DISTRIBUTION. </B></P> <P STYLE="margin-top:4pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:ARIAL">The following table sets forth all costs and expenses, other than underwriting discounts and
+commissions, paid or payable by the Registrant in connection with the sale of the common stock being registered. All amounts shown are estimates except for the SEC registration fee and the FINRA filing fee: </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="88%"></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:8pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>Amount</B><br><B>Paid or</B><br><B>to&nbsp;be&nbsp;Paid</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+
+
+<TR BGCOLOR="#cceeff" STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt ;margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:ARIAL">SEC registration fee</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">8,419</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt ;margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:ARIAL">FINRA filing fee</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">11,368</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt ;margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:ARIAL">Initial NASDAQ Global Market listing fee</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">125,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt ;margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:ARIAL">Blue sky qualification fees and expenses</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">5,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt ;margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:ARIAL">Printing and engraving expenses</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">720,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt ;margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:ARIAL">Legal fees and expenses</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">1,800,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt ;margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:ARIAL">Accounting fees and expenses</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">1,125,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt ;margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:ARIAL">Transfer agent and registrar fees and expenses</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">3,500</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt ;margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:ARIAL">Miscellaneous expenses</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">101,713</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-size:1px; ">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt ;border-top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt ;border-top:1.00px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt ;margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:ARIAL">Total</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">3,900,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-size:1px; ">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt ;border-top:3.00px double #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt ;border-top:3.00px double #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD></TR>
+</TABLE> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL"><B>ITEM&nbsp;14. INDEMNIFICATION OF DIRECTORS AND OFFICERS. </B></P>
+<P STYLE="margin-top:4pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:ARIAL">Section&nbsp;145 of the Delaware General Corporation Law authorizes a court to award, or a corporation&#146;s board of directors to grant, indemnity to
+directors and officers under certain circumstances and subject to certain limitations. The terms of Section&nbsp;145 of the Delaware General Corporation Law are sufficiently broad to permit indemnification under certain circumstances for
+liabilities, including reimbursement of expenses incurred, arising under the Securities Act. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:ARIAL">As permitted by the Delaware General Corporation Law,
+the Registrant&#146;s restated certificate of incorporation to be effective in connection with the closing of this offering contains provisions that eliminate the personal liability of its directors for monetary damages for any breach of fiduciary
+duties as a director, except liability for the following: </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman; font-size:7pt"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#110;</FONT></FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">any breach of the director&#146;s duty of loyalty to the Registrant or its stockholders; </TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman; font-size:7pt"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#110;</FONT></FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">acts or omissions not in good faith or that involve intentional misconduct or a knowing violation of law; </TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman; font-size:7pt"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#110;</FONT></FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">under Section&nbsp;174 of the Delaware General Corporation Law (regarding unlawful dividends and stock purchases); or </TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman; font-size:7pt"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#110;</FONT></FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">any transaction from which the director derived an improper personal benefit. </TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:ARIAL">As permitted by the
+Delaware General Corporation Law, the Registrant&#146;s restated bylaws to be effective upon the closing of this offering, provide that: </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman; font-size:7pt"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#110;</FONT></FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">the Registrant is required to indemnify its directors and executive officers to the fullest extent permitted by the Delaware General Corporation Law, subject to very limited exceptions; </TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman; font-size:7pt"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#110;</FONT></FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">the Registrant may indemnify its other employees and agents as set forth in the Delaware General Corporation Law; </TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center">II-1 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman; font-size:7pt"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#110;</FONT></FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">the Registrant is required to advance expenses, as incurred, to its directors and executive officers in connection with a legal proceeding to the fullest extent permitted by the Delaware General Corporation Law, subject
+to very limited exceptions; and </TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman; font-size:7pt"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#110;</FONT></FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">the rights conferred in the restated bylaws are not exclusive. </TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:ARIAL">Prior to the closing of this offering,
+the Registrant has entered into indemnification agreements with each of its current directors and executive officers to provide these directors and executive officers additional contractual assurances regarding the scope of the indemnification set
+forth in the Registrant&#146;s restated certificate of incorporation and restated bylaws and to provide additional procedural protections. There is no pending litigation or proceeding involving a director or executive officer of the Registrant for
+which indemnification is sought. Reference is also made to Section&nbsp;7 of the underwriting agreement to be filed as Exhibit 1.1 to this registration statement, which provides for the indemnification of executive officers, directors and
+controlling persons of the Registrant against certain liabilities. The indemnification provisions in the Registrant&#146;s restated certificate of incorporation, restated bylaws and the indemnification agreements entered into or to be entered into
+between the Registrant and each of its directors and executive officers may be sufficiently broad to permit indemnification of the Registrant&#146;s directors and executive officers for liabilities arising under the Securities Act. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:ARIAL">The Registrant currently carries liability insurance for its directors and officers. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:ARIAL">Two of the Registrant&#146;s directors (Henry Skinner and Armen Shanafelt) are also indemnified by their employers with regard to their service on the
+Registrant&#146;s Board of Directors. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:ARIAL">Reference is made to the following documents filed as exhibits to this Registration Statement regarding
+relevant indemnification provisions described above and elsewhere herein: </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="93%"></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP> <P STYLE=" margin-top:0pt ; margin-bottom:0pt ;border-bottom:1.00pt solid #000000; width:68.00pt; font-size:8pt; font-family:ARIAL"><B>Exhibit Document</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>Number</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+
+
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt ;margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:ARIAL">Form of Underwriting Agreement.</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">1.1</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt ;margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:ARIAL">Form of Restated Certificate of Incorporation to be effective upon the closing of this offering.</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">3.2</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt ;margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:ARIAL">Form of Restated Bylaws to be effective upon the closing of this offering.</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">3.4</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt ;margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:ARIAL">Amended and Restated Investors&#146; Rights Agreement dated March&nbsp;10, 2015 among the Registrant and
+certain of its stockholders, as amended.</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">4.2</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt ;margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:ARIAL">Form of Indemnification Agreement.</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">10.1</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+</TABLE> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL"><B>ITEM&nbsp;15. RECENT SALES OF UNREGISTERED SECURITIES. </B></P>
+<P STYLE="margin-top:4pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:ARIAL">Since our inception on December&nbsp;16, 2013 and through March 25, 2016, the Registrant has issued and sold the following securities: </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:ARIAL">1. On December&nbsp;24, 2013, the Registrant issued 334,522 Common A shares and 165,000 Common A-1 shares to Aeglea BioTherapeutics, LLC, a Delaware
+limited liability company, in exchange for certain assets of Aeglea BioTherapeutics, LLC. This transaction was exempt from the registration requirements of the Securities Act in reliance upon Section&nbsp;4(a)(2) of the Securities Act. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:ARIAL">2. In May 2014, the Registrant granted to its directors, officers, employees and consultants 309,555 Common B shares with a threshold amount of
+$12,230,079 under the 2013 Equity Incentive Plan. These transactions were exempt from the registration requirements of the Securities Act in reliance upon Rule 701 promulgated under the Securities Act or Section&nbsp;4(a)(2) of the Securities Act.
+</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:ARIAL">3. Between August 2014 and November 2014, the Registrant granted to its directors, officers, employees and consultants 45,601 Common B shares with
+a threshold amount of $22,101,458 under </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center">II-2 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">
+the 2013 Equity Incentive Plan. These transactions were exempt from the registration requirements of the Securities Act in reliance upon Rule 701 promulgated under the Securities Act or Section
+4(a)(2) of the Securities Act. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:ARIAL">4. Between December 2013 and November 2014, the Registrant issued an aggregate of 2,172,520 shares of the
+Registrant&#146;s Series&nbsp;A convertible preferred shares at a purchase price of $5.25&nbsp;per share to 11 purchasers, each of whom represented to us that it was an accredited investor. The securities issued in this transaction were exempt from
+the registration requirements of the Securities Act in reliance on either Rule 506 promulgated under the Securities Act or Section&nbsp;4(a)(2) of the Securities Act. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:ARIAL">5. In March&nbsp;2015, Aeglea BioTherapeutic Holdings, LLC, a Delaware limited liability company converted into Aeglea BioTherapeutic, Inc. (the
+&#147;corporate conversion&#148;). As a result, (i)&nbsp;2,172,520 Series&nbsp;A convertible preferred shares converted into 2,172,520 shares of Series A convertible preferred stock; (ii)&nbsp;334,522 Common A shares converted into 334,522 shares of
+common stock; (iii)&nbsp;165,000 Common A-1 shares converted into 165,000 shares of common stock; (iv)&nbsp;309,555 Common&nbsp;B shares with a threshold amount of $12,230,079 converted into 234,511 shares of common stock; and (v)&nbsp;44,127 Common
+B shares with a threshold amount of $22,101,458 converted into 18,721 shares of common stock. The securities issued in this transaction were exempt from the registration requirements of the Securities Act in reliance on Sections&nbsp;4(a)(2) and/or
+3(a)(9) of the Securities Act. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:ARIAL">6. In March 2015, the Registrant issued an aggregate of 4,929,948 shares of the Registrant&#146;s Series B
+convertible preferred stock at a purchase price of $8.93 per share to 54 purchasers that represented to us that they were sophisticated accredited investors and qualified institutional buyers. The securities issued in this transaction were exempt
+from the registration requirements of the Securities Act in reliance on Rule 506 promulgated under the Securities Act. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:ARIAL">7. In 2015, the Registrant
+issued to its directors, officers, employees and consultants options to purchase 644,505 shares of common stock under its 2015 Equity Incentive Plan, with per share exercise prices ranging from of $3.47 to $12.81 per share. The securities issued in
+these transactions were exempt from the registration requirements of the Securities Act in reliance upon Rule&nbsp;701 promulgated under the Securities Act or Section&nbsp;4(a)(2) of the Securities Act. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:ARIAL">8. In June 2015, the Registrant issued an aggregate of 70,028 shares of the Registrant&#146;s Series&nbsp;B convertible preferred stock with an original
+issuance price of $8.93 per share as a milestone payment to a contract manufacturing organization that represented to us that it was a sophisticated accredited investor. The securities issued in this transaction were exempt from the registration
+requirements of the Securities Act in reliance on Section 4(a)(2) of the Securities Act. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:ARIAL">9. On December 2, 2015, the Registrant issued to a
+consultant 4,580 shares of common stock upon exercise of options granted by the Registrant under its 2015 Equity Incentive Plan, with an exercise price of $5.04 per share. This transaction was exempt from the registration requirements of the
+Securities Act in reliance upon Rule&nbsp;701 promulgated under the Securities Act, Section&nbsp;4(a)(2) of the Securities Act or Regulation D promulgated under the Securities Act. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:ARIAL">10. In 2016, the Registrant issued to its directors and employees options to purchase 84,417 shares of common stock under its 2015 Equity Incentive
+Plan, with a per share exercise price of $5.46 per share. The securities issued in these transactions were exempt from the registration requirements of the Securities Act in reliance upon Rule&nbsp;701 promulgated under the Securities Act or
+Section&nbsp;4(a)(2) of the Securities Act. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center">II-3 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:ARIAL">None of the foregoing transactions involved any underwriters, underwriting discounts or commissions or any
+public offering, and the Registrant believes each transaction was exempt from the registration requirements of the Securities Act as stated above. All recipients of the foregoing transactions either received adequate information about the Registrant
+or had access, through their relationships with the Registrant, to such information. Furthermore, the Registrant affixed appropriate legends to the share certificates and instruments issued in each foregoing transaction setting forth that the
+securities had not been registered and the applicable restrictions on transfer. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center">II-4 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL"><B>ITEM&nbsp;16. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES. </B></P>
+<P STYLE="margin-top:4pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:ARIAL">(a) Exhibits. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD WIDTH="89%"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL"><B>Exhibit</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1.00pt solid #000000; width:30.25pt; font-size:8pt; font-family:ARIAL"><B>Number</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>Description of Document</B></P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>&nbsp;&nbsp;1.1*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Form of Underwriting Agreement.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>&nbsp;&nbsp;3.1*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Restated Certificate of Incorporation, as amended to date.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>&nbsp;&nbsp;3.2*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Form of Restated Certificate of Incorporation to be effective upon closing of this offering.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>&nbsp;&nbsp;3.3*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Bylaws, as currently in effect.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>&nbsp;&nbsp;3.4*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Form of Restated Bylaws to be effective upon closing of this offering.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>&nbsp;&nbsp;4.1*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Form of Common Stock Certificate.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>&nbsp;&nbsp;4.2*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Amended and Restated Investors&#146; Rights Agreement, dated March 10, 2015, by and among the Registrant and certain of its stockholders, as amended.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>&nbsp;&nbsp;5.1*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Opinion of Fenwick &amp; West LLP.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.1*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Form of Indemnification Agreement.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.2*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">2015 Equity Incentive Plan and forms of award agreements.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.3*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">2016 Equity Incentive Plan, to become effective on the date the registration statement is declared effective, and forms of award agreements.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.4*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">2016 Employee Stock Purchase Plan, to become effective on the date the registration statement is declared effective, and forms of award agreements.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.5*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Form of Stock Restriction Agreement.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.6*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Executive Employment Agreement, dated July 7, 2015, by and between the Registrant and Dr.&nbsp;David G. Lowe.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.7*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Offer Letter, dated December 28, 2013, issued by the Registrant to Dr.&nbsp;Scott&nbsp;W. Rowlinson.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.8<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP>*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL">Sponsored Research Agreement No.&nbsp;UTA13-001113, dated December&nbsp;24, 2013, between The University of Texas at Austin (&#147;UT-Austin&#148;) and
+Aeglea BioTherapeutics, Inc., Aeglea Development Company, Inc., AERase, Inc., AEMase, Inc., AECase, Inc., AE4ase, Inc., AE5ase, Inc. and AE6ase., Inc., as amended.</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.9<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP>*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Master Services Agreement, dated December 24, 2013, between KBI Biopharma, Inc. Aeglea Development Company, Inc. and the Registrant and First Amendment to Master Services Agreement, dated June 30, 2015, between KBI Biopharma, Inc.,
+Aeglea Development Company, Inc. and Registrant.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.10*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Office Lease, dated November 24, 2014, between Barton Oaks Office Center, LLC and the Registrant.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.11*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Consulting Agreement, dated February 18, 2014, by and between the Registrant and George Georgiou.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.12<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP>*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Patent License Agreement No. PM1401601, dated December 24, 2013, between UT-Austin on behalf of the Board of Regents of the University of Texas system and AEMase, Inc. (pursuant to Instruction 2 to Item 601 of Regulation S-K, a
+Patent License No. PM1401501 that is substantially identical in all material respects, except as to the parties thereto, between UT-Austin and AECase, Inc., was not filed).</TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center">II-5 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD WIDTH="89%"></TD></TR>
+
+<TR STYLE="font-family:ARIAL; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL"><B>Exhibit</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1.00pt solid #000000; width:30.25pt; font-size:8pt; font-family:ARIAL"><B>Number</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>Description of Document</B></P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.13<SUP STYLE="font-size:85%; vertical-align:top"></SUP>*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Board Service Agreement, dated June&nbsp;12, 2015, between the Registrant and Russell Cox (pursuant to Instruction 2 to Item 601 of Regulation S-K, a Board Service Agreement that is substantially identical in all material respects,
+except as to the parties thereto, between the Registrant and Sandesh Mahatme, was not filed).</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.14<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP>*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL">Cancer Research Grant Contract, dated June&nbsp;15, 2015, between AERase, Inc. and the Cancer Prevention Research Institute of Texas.</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.15*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">CEO Severance Agreement, dated July 7, 2015, by and between the Registrant and Dr.&nbsp;David G. Lowe.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.16*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Vice President Severance Agreement dated July 10, 2015 by and between Registrant and Dr.&nbsp;Scott W. Rowlinson.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.17*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Offer Letter, dated May 4, 2015, issued by the Registrant to Mr. Henry Hebel.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.18*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Vice President Severance Agreement dated January 14, 2016 by and between Registrant and Mr.&nbsp;Henry Hebel.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>21.1*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Subsidiaries of the Registrant.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>23.1*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Consent of independent registered public accounting firm.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>23.2*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Consent of Fenwick &amp; West LLP (included in Exhibit 5.1).</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>24.1*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Power of Attorney. Reference is made to the signature page hereto.</TD></TR>
+</TABLE>  <P STYLE="line-height:8.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000;width:26%">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">*</TD>
+<TD ALIGN="left" VALIGN="top">Previously filed. </TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#134;</TD>
+<TD ALIGN="left" VALIGN="top">Registrant has omitted portions of the referenced exhibit and filed such exhibit separately with the Securities and Exchange Commission pursuant to a request for confidential treatment under Rule&nbsp;406 promulgated
+under the Securities Act. </TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:ARIAL">(b) Financial Statement Schedules. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:ARIAL">No financial statement schedules are provided because the information called for is not required or is shown either in the consolidated financial
+statements or notes. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center">II-6 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL"><B>ITEM&nbsp;17. UNDERTAKINGS. </B></P>
+<P STYLE="margin-top:4pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:ARIAL">The undersigned Registrant hereby undertakes to provide to the underwriters at the closing specified in the underwriting agreement certificates in such
+denominations and registered in such names as required by the underwriters to permit prompt delivery to each purchaser. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:ARIAL">Insofar as indemnification
+for liabilities arising under the Securities Act may be permitted to directors, officers and controlling persons of the registrant pursuant to the foregoing provisions, or otherwise, the registrant has been advised that in the opinion of the SEC
+such indemnification is against public policy as expressed in the Securities Act and is, therefore, unenforceable. In the event that a claim for indemnification against such liabilities (other than the payment by the registrant of expenses incurred
+or paid by a director, officer or controlling person of the registrant in the successful defense of any action, suit or proceeding) is asserted by such director, officer or controlling person in connection with the securities being registered, the
+Registrant will, unless in the opinion of its counsel the matter has been settled by controlling precedent, submit to a court of appropriate jurisdiction the question whether such indemnification by it is against public policy as expressed in the
+Securities Act and will be governed by the final adjudication of such issue. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:ARIAL">The undersigned Registrant hereby undertakes that: </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:ARIAL">(a) purposes of determining any liability under the Securities Act, the information omitted from the form of prospectus filed as part of this
+registration statement in reliance upon Rule 430A and contained in a form of prospectus filed by the registrant pursuant to Rule 424(b)(1) or (4)&nbsp;or 497(h) under the Securities Act shall be deemed to be part of this registration statement as of
+the time it was declared effective. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:ARIAL">(b) For the purpose of determining any liability under the Securities Act, each post-effective amendment that
+contains a form of prospectus shall be deemed to be a new registration statement relating to the securities offered therein, and the offering of such securities at that time shall be deemed to be the initial bona fide offering thereof. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center">II-7 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>SIGNATURES </B></P>
+<P STYLE="margin-top:10pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:ARIAL">Pursuant to the requirements of the Securities Act, the Registrant has duly caused this amendment to registration statement on Form S-1 to be signed on
+its behalf by the undersigned, thereunto duly authorized, in Austin, Texas, on the 6th day of April, 2016. </P>  <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="6%"></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="91%"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">AEGLEA BIOTHERAPEUTICS, INC.</TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top">By:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:ARIAL">/s/ David G. Lowe, Ph.D.</P></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">David G. Lowe, Ph.D.</TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">President, Chief Executive Officer and Director</TD></TR>
+</TABLE></DIV> <P STYLE="font-size:20pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:10pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:ARIAL">Pursuant to the requirements of the
+Securities Act of 1933, this amendment to registration statement on Form S-1 has been signed by the following persons in the capacities and on the dates indicated. </P> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="88%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="36%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="51%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="11%"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt ;border-bottom:1.00pt solid #000000; width:36.90pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>Signature</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt ;border-bottom:1.00pt solid #000000; width:16.40pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>Title</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt ;border-bottom:1.00pt solid #000000; width:17.35pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>Date</B></P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="13"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; border-bottom:1px solid #000000; font-size:10pt; font-family:ARIAL" ALIGN="center">/s/ David G. Lowe, Ph.D.</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:ARIAL" ALIGN="center">David G. Lowe, Ph.D.</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center">President,&nbsp;Chief&nbsp;Executive&nbsp;Officer&nbsp;and&nbsp;Director</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL" ALIGN="center">(Principal Executive Officer)</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" NOWRAP ALIGN="center">April&nbsp;6,&nbsp;2016</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="13"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; border-bottom:1px solid #000000; font-size:10pt; font-family:ARIAL" ALIGN="center">/s/ Charles N. York II</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:ARIAL" ALIGN="center">Charles N. York II</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center">Chief Financial Officer and Vice President</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center">(Principal Accounting Officer and</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL" ALIGN="center">Principal Financial
+Officer)</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" NOWRAP ALIGN="center">April&nbsp;6,&nbsp;2016</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="13"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-bottom:0pt; margin-top:0pt; border-bottom:1px solid #000000; font-size:10pt; font-family:ARIAL" ALIGN="center">*</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:ARIAL" ALIGN="center">Russell J. Cox</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">Director</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" NOWRAP ALIGN="center">April&nbsp;6,&nbsp;2016</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="13"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-bottom:0pt; margin-top:0pt; border-bottom:1px solid #000000; font-size:10pt; font-family:ARIAL" ALIGN="center">*</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:ARIAL" ALIGN="center">George Georgiou, Ph.D.</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">Director</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" NOWRAP ALIGN="center">April&nbsp;6,&nbsp;2016</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="13"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-bottom:0pt; margin-top:0pt; border-bottom:1px solid #000000; font-size:10pt; font-family:ARIAL" ALIGN="center">*</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:ARIAL" ALIGN="center">Sandesh Mahatme, LLM</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">Director</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" NOWRAP ALIGN="center">April&nbsp;6,&nbsp;2016</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="13"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-bottom:0pt; margin-top:0pt; border-bottom:1px solid #000000; font-size:10pt; font-family:ARIAL" ALIGN="center">*</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL" ALIGN="center">Anthony G. Quinn, M.B Ch.B, Ph.D.</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">Director</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">April&nbsp;6, 2016</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="13"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-bottom:0pt; margin-top:0pt; border-bottom:1px solid #000000; font-size:10pt; font-family:ARIAL" ALIGN="center">*</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:ARIAL" ALIGN="center">Armen Shanafelt, Ph.D.</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">Director</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" NOWRAP ALIGN="center">April&nbsp;6,&nbsp;2016</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="13"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-bottom:0pt; margin-top:0pt; border-bottom:1px solid #000000; font-size:10pt; font-family:ARIAL" ALIGN="center">*</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:ARIAL" ALIGN="center">Henry Skinner, Ph.D.</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">Director</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" NOWRAP ALIGN="center">April&nbsp;6,&nbsp;2016</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="13"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; border-bottom:1px solid #000000; font-size:10pt; font-family:ARIAL" ALIGN="center">*By&nbsp;&nbsp;/s/ Charles N. York II</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:ARIAL" ALIGN="center">Charles N. York II</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">Attorney-In-Fact</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" NOWRAP ALIGN="center">April&nbsp;6,&nbsp;2016</TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center">II-8 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>EXHIBIT INDEX </B></P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD WIDTH="89%"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL"><B>Exhibit</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1.00pt solid #000000; width:30.25pt; font-size:8pt; font-family:ARIAL"><B>Number</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>Description of Document</B></P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>&nbsp;&nbsp;1.1*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Form of Underwriting Agreement.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>&nbsp;&nbsp;3.1*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Restated Certificate of Incorporation, as amended to date.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>&nbsp;&nbsp;3.2*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Form of Restated Certificate of Incorporation to be effective upon closing of this offering.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>&nbsp;&nbsp;3.3*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Bylaws, as currently in effect.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>&nbsp;&nbsp;3.4*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Form of Restated Bylaws to be effective upon closing of this offering.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>&nbsp;&nbsp;4.1*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Form of Common Stock Certificate.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>&nbsp;&nbsp;4.2*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Amended and Restated Investors&#146; Rights Agreement, dated March 10, 2015, by and among the Registrant and certain of its stockholders, as amended.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>&nbsp;&nbsp;5.1*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Opinion of Fenwick &amp; West LLP.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.1*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Form of Indemnification Agreement.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.2*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">2015 Equity Incentive Plan and forms of award agreements.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.3*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">2016 Equity Incentive Plan, to become effective on the date the registration statement is declared effective, and forms of award agreements.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.4*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">2016 Employee Stock Purchase Plan, to become effective on the date the registration statement is declared effective, and forms of award agreements.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.5*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Form of Stock Restriction Agreement.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.6*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Executive Employment Agreement, dated July 7, 2015, by and between the Registrant and Dr.&nbsp;David G. Lowe.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.7*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Offer Letter, dated December 28, 2013, issued by the Registrant to Dr. Scott&nbsp;W. Rowlinson.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.8<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP>*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL">Sponsored Research Agreement No. UTA13-001113, dated December 24, 2013, between The University of Texas at Austin (&#147;UT-Austin&#148;) and Aeglea
+BioTherapeutics, Inc., Aeglea Development Company, Inc., AERase, Inc., AEMase, Inc., AECase, Inc., AE4ase, Inc., AE5ase, Inc. and AE6ase., Inc., as amended.</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.9<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP>*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Master Services Agreement, dated December 24, 2013, between KBI Biopharma, Inc. Aeglea Development Company, Inc. and the Registrant and First Amendment to Master Services Agreement, dated June 30, 2015, between KBI Biopharma, Inc.,
+Aeglea Development Company, Inc. and Registrant.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.10*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Office Lease, dated November 24, 2014, between Barton Oaks Office Center, LLC and the Registrant.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.11*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Consulting Agreement, dated February 18, 2014, by and between the Registrant and George Georgiou.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.12<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP>*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Patent License Agreement No. PM1401601, dated December 24, 2013, between UT-Austin on behalf of the Board of Regents of the University of Texas system and AEMase, Inc. (pursuant to Instruction 2 to Item 601 of Regulation S-K, a
+Patent License No. PM1401501 that is substantially identical in all material respects, except as to the parties thereto, between UT-Austin and AECase, Inc., was not filed).</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.13<SUP STYLE="font-size:85%; vertical-align:top"></SUP>*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Board Service Agreement, dated June&nbsp;12, 2015, between the Registrant and Russell Cox (pursuant to Instruction 2 to Item 601 of Regulation S-K, a Board Service Agreement that is substantially identical in all material respects,
+except as to the parties thereto, between the Registrant and Sandesh Mahatme, was not filed).</TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD WIDTH="89%"></TD></TR>
+
+<TR STYLE="font-family:ARIAL; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL"><B>Exhibit</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1.00pt solid #000000; width:30.25pt; font-size:8pt; font-family:ARIAL"><B>Number</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>Description of Document</B></P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.14<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP>*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Cancer Research Grant Contract, dated June&nbsp;15, 2015, between AERase, Inc. and the Cancer Prevention Research Institute of Texas.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.15*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">CEO Severance Agreement, dated July 7, 2015, by and between the Registrant and Dr.&nbsp;David G. Lowe.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.16*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Vice President Severance Agreement dated July 10, 2015 by and between Registrant and Dr. Scott W. Rowlinson.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.17*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Offer Letter, dated May 4, 2015, issued by the Registrant to Mr. Henry Hebel.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.18*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Vice President Severance Agreement dated January 14, 2016 by and between Registrant and Mr.&nbsp;Henry Hebel.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>21.1*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Subsidiaries of the Registrant.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>23.1*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Consent of independent registered public accounting firm.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>23.2*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Consent of Fenwick &amp; West LLP (included in Exhibit 5.1).</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>24.1*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Power of Attorney. Reference is made to the signature page hereto.</TD></TR>
+</TABLE>  <P STYLE="line-height:8.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000;width:26%">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">*</TD>
+<TD ALIGN="left" VALIGN="top">Previously filed. </TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#134;</TD>
+<TD ALIGN="left" VALIGN="top">Registrant has omitted portions of the referenced exhibit and filed such exhibit separately with the Securities and Exchange Commission pursuant to a request for confidential treatment under Rule 406 promulgated under
+the Securities Act. </TD></TR></TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,369 @@
+<SEC-DOCUMENT>0001595686-16-000021.txt : 20160406
+<SEC-HEADER>0001595686-16-000021.hdr.sgml : 20160406
+<ACCEPTANCE-DATETIME>20160406111952
+ACCESSION NUMBER:		0001595686-16-000021
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20160331
+FILED AS OF DATE:		20160406
+DATE AS OF CHANGE:		20160406
+EFFECTIVENESS DATE:		20160406
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			RK Asset Management, LLC
+		CENTRAL INDEX KEY:			0001595686
+		IRS NUMBER:				271665011
+		STATE OF INCORPORATION:			MI
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-15669
+		FILM NUMBER:		161556807
+
+	BUSINESS ADDRESS:	
+		STREET 1:		98 B KERCHEVAL
+		CITY:			GROSSE POINTE FARMS
+		STATE:			MI
+		ZIP:			48236
+		BUSINESS PHONE:		313-647-4717
+
+	MAIL ADDRESS:	
+		STREET 1:		98 B KERCHEVAL
+		CITY:			GROSSE POINTE FARMS
+		STATE:			MI
+		ZIP:			48236
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>true</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001595686</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>03-31-2016</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>03-31-2016</reportCalendarOrQuarter>
+      <filingManager>
+        <name>RK Asset Management, LLC</name>
+        <address>
+          <com:street1>98 B KERCHEVAL</com:street1>
+          <com:city>GROSSE POINTE FARMS</com:city>
+          <com:stateOrCountry>MI</com:stateOrCountry>
+          <com:zipCode>48236</com:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-15669</form13FFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Raja Elachkar</name>
+      <title>Managing Member and Chief Compliance Officer</title>
+      <phone>313-647-4717</phone>
+      <signature>Raja Elachkar</signature>
+      <city>Grosse Pointe Farms</city>
+      <stateOrCountry>MI</stateOrCountry>
+      <signatureDate>04-06-2016</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>0</otherIncludedManagersCount>
+      <tableEntryTotal>15</tableEntryTotal>
+      <tableValueTotal>119694</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>13F2016Q1.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns1:informationTable xmlns:ns1="http://www.sec.gov/edgar/document/thirteenf/informationtable">
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>ALLEGIANT TRAVEL CO</ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>01748X102</ns1:cusip>
+		<ns1:value>8540</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>47961</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:otherManager>NONE</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>47961</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>AMERICAN EXPRESS CO</ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>25816109</ns1:cusip>
+		<ns1:value>6111</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>99523</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:otherManager>NONE</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>99523</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>DORMAN PRODUCTS, INC</ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>258278100</ns1:cusip>
+		<ns1:value>6961</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>127906</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:otherManager>NONE</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>127906</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>FRANKLIN RESOURCES INC</ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>354613101</ns1:cusip>
+		<ns1:value>7533</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>192916</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:otherManager>NONE</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>192916</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>GENTEX CORP</ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>371901109</ns1:cusip>
+		<ns1:value>10775</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>686732</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:otherManager>NONE</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>686732</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>J&amp;J SNACK FOODS</ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>466032109</ns1:cusip>
+		<ns1:value>3811</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>35193</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:otherManager>NONE</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>35193</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>LEUCADIA NAT CP</ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>527288104</ns1:cusip>
+		<ns1:value>5653</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>349586</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:otherManager>NONE</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>349586</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>NATIONAL PRESTO INDUSTRIES</ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>637215104</ns1:cusip>
+		<ns1:value>8563</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>102260</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:otherManager>NONE</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>102260</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>NATIONAL WESTERN LIFE GROUP INC.</ns1:nameOfIssuer>
+		<ns1:titleOfClass>CL A</ns1:titleOfClass>
+		<ns1:cusip>638517102</ns1:cusip>
+		<ns1:value>17971</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>77922</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:otherManager>NONE</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>77922</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>OPKO HEALTH INC</ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>68375N103</ns1:cusip>
+		<ns1:value>9723</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>935822</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:otherManager>NONE</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>935822</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>QUALCOMM INC</ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>747525103</ns1:cusip>
+		<ns1:value>5777</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>112962</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:otherManager>NONE</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>112962</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>SYNTEL INC</ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>87162H103</ns1:cusip>
+		<ns1:value>9194</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>184147</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:otherManager>NONE</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>184147</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>T ROWE PRICE GROUP INC</ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>74144T108</ns1:cusip>
+		<ns1:value>6403</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>87157</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:otherManager>NONE</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>87157</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>THE BOSTON BEER CO INC A</ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>100557107</ns1:cusip>
+		<ns1:value>5907</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>31915</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:otherManager>NONE</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>31915</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>UNIFIRST CP</ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>904708104</ns1:cusip>
+		<ns1:value>6772</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>62063</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:otherManager>NONE</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>62063</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+</ns1:informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

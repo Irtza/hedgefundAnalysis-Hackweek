@@ -1,0 +1,92 @@
+<SEC-DOCUMENT>0001536440-16-000017.txt : 20160406
+<SEC-HEADER>0001536440-16-000017.hdr.sgml : 20160406
+<ACCEPTANCE-DATETIME>20160406141222
+ACCESSION NUMBER:		0001536440-16-000017
+CONFORMED SUBMISSION TYPE:	13F-NT
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20160331
+FILED AS OF DATE:		20160406
+DATE AS OF CHANGE:		20160406
+EFFECTIVENESS DATE:		20160406
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HOWELL ELIZABETH KENAN
+		CENTRAL INDEX KEY:			0001084160
+
+	FILING VALUES:
+		FORM TYPE:		13F-NT
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-04031
+		FILM NUMBER:		161557167
+
+	MAIL ADDRESS:	
+		STREET 1:		100 EUROPA DRIVE SUITE 525
+		CITY:			CHAPEL HILL
+		STATE:			NC
+		ZIP:			27515
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-NT
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>13F-NT</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>false</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001084160</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>03-31-2016</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>03-31-2016</reportCalendarOrQuarter>
+      <filingManager>
+        <name>HOWELL ELIZABETH KENAN</name>
+        <address>
+          <com:street1>100 EUROPA DRIVE SUITE 525</com:street1>
+          <com:city>CHAPEL HILL</com:city>
+          <com:stateOrCountry>NC</com:stateOrCountry>
+          <com:zipCode>27515</com:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F NOTICE</reportType>
+      <form13FFileNumber>028-04031</form13FFileNumber>
+      <otherManagersInfo>
+        <otherManager>
+          <form13FFileNumber>028-694</form13FFileNumber>
+          <name>J.P. Morgan Chase &amp; Co.</name>
+        </otherManager>
+      </otherManagersInfo>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Elizabeth Kenan Howell</name>
+      <title>Individual</title>
+      <phone>919-967-0618</phone>
+      <signature>Elizabeth K. Howell</signature>
+      <city>Chapel Hill</city>
+      <stateOrCountry>NC</stateOrCountry>
+      <signatureDate>04-05-2016</signatureDate>
+    </signatureBlock>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

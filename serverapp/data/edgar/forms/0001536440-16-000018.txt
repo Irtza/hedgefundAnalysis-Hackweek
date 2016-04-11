@@ -1,0 +1,96 @@
+<SEC-DOCUMENT>0001536440-16-000018.txt : 20160406
+<SEC-HEADER>0001536440-16-000018.hdr.sgml : 20160406
+<ACCEPTANCE-DATETIME>20160406141544
+ACCESSION NUMBER:		0001536440-16-000018
+CONFORMED SUBMISSION TYPE:	13F-NT
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20160331
+FILED AS OF DATE:		20160406
+DATE AS OF CHANGE:		20160406
+EFFECTIVENESS DATE:		20160406
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Kenan Sterling Holt
+		CENTRAL INDEX KEY:			0001196415
+
+	FILING VALUES:
+		FORM TYPE:		13F-NT
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-10280
+		FILM NUMBER:		161557175
+
+	MAIL ADDRESS:	
+		STREET 1:		1400 NORTH LAKE WAY
+		CITY:			PALM BEACH
+		STATE:			FL
+		ZIP:			33480
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	KENAN STERLING HOLT
+		DATE OF NAME CHANGE:	20021004
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-NT
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>13F-NT</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>false</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001196415</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>03-31-2016</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>03-31-2016</reportCalendarOrQuarter>
+      <filingManager>
+        <name>Kenan Sterling Holt</name>
+        <address>
+          <com:street1>1400 NORTH LAKE WAY</com:street1>
+          <com:city>PALM BEACH</com:city>
+          <com:stateOrCountry>FL</com:stateOrCountry>
+          <com:zipCode>33480</com:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F NOTICE</reportType>
+      <form13FFileNumber>028-10280</form13FFileNumber>
+      <otherManagersInfo>
+        <otherManager>
+          <form13FFileNumber>028-694</form13FFileNumber>
+          <name>J.P. Morgan Chase &amp; Co.</name>
+        </otherManager>
+      </otherManagersInfo>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Sterling Holt Kenan</name>
+      <title>Individual</title>
+      <phone>561-840-9080</phone>
+      <signature>Sterling Holt Kenan</signature>
+      <city>Palm Beach</city>
+      <stateOrCountry>FL</stateOrCountry>
+      <signatureDate>04-05-2016</signatureDate>
+    </signatureBlock>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

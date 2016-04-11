@@ -1,0 +1,117 @@
+<SEC-DOCUMENT>0001014892-16-000004.txt : 20160405
+<SEC-HEADER>0001014892-16-000004.hdr.sgml : 20160405
+<ACCEPTANCE-DATETIME>20160405141132
+ACCESSION NUMBER:		0001014892-16-000004
+CONFORMED SUBMISSION TYPE:	13F-NT
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20160331
+FILED AS OF DATE:		20160405
+DATE AS OF CHANGE:		20160405
+EFFECTIVENESS DATE:		20160405
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			First State Trust Co
+		CENTRAL INDEX KEY:			0001014892
+		IRS NUMBER:				133124172
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-NT
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-05476
+		FILM NUMBER:		161553934
+
+	BUSINESS ADDRESS:	
+		STREET 1:		DELAWARE CORPORATE CENTER II
+		STREET 2:		2 RIGHTER PARKWAY, SUITE 250
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19803
+		BUSINESS PHONE:		3025735816
+
+	MAIL ADDRESS:	
+		STREET 1:		DELAWARE CORPORATE CENTER II
+		STREET 2:		2 RIGHTER PARKWAY, SUITE 250
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19803
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Citigroup Institutional Trust Co
+		DATE OF NAME CHANGE:	20050214
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SMITH BARNEY CORPORATE TRUST CO
+		DATE OF NAME CHANGE:	19990329
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-NT
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>13F-NT</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>true</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001014892</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>03-31-2016</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>03-31-2016</reportCalendarOrQuarter>
+      <filingManager>
+        <name>First State Trust Co</name>
+        <address>
+          <com:street1>DELAWARE CORPORATE CENTER II</com:street1>
+          <com:street2>2 RIGHTER PARKWAY, SUITE 250</com:street2>
+          <com:city>WILMINGTON</com:city>
+          <com:stateOrCountry>DE</com:stateOrCountry>
+          <com:zipCode>19803</com:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F NOTICE</reportType>
+      <form13FFileNumber>028-05476</form13FFileNumber>
+      <otherManagersInfo>
+        <otherManager>
+          <form13FFileNumber>028-14622</form13FFileNumber>
+          <name>Timpani Capital Management LLC</name>
+        </otherManager>
+        <otherManager>
+          <form13FFileNumber>028-12179</form13FFileNumber>
+          <name>Phocas Financial Corp</name>
+        </otherManager>
+      </otherManagersInfo>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Andrew Gibson</name>
+      <title>Investment Officer</title>
+      <phone>302-573-5828</phone>
+      <signature>Andrew Gibson</signature>
+      <city>Wilmington</city>
+      <stateOrCountry>DE</stateOrCountry>
+      <signatureDate>04-05-2016</signatureDate>
+    </signatureBlock>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

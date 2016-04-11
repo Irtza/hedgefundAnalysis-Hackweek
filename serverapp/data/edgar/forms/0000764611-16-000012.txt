@@ -1,0 +1,426 @@
+<SEC-DOCUMENT>0000764611-16-000012.txt : 20160404
+<SEC-HEADER>0000764611-16-000012.hdr.sgml : 20160404
+<ACCEPTANCE-DATETIME>20160404171745
+ACCESSION NUMBER:		0000764611-16-000012
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20131231
+FILED AS OF DATE:		20160404
+DATE AS OF CHANGE:		20160404
+EFFECTIVENESS DATE:		20160404
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ARKANSAS FINANCIAL GROUP, INC.
+		CENTRAL INDEX KEY:			0000764611
+		IRS NUMBER:				710561670
+		STATE OF INCORPORATION:			AR
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-17010
+		FILM NUMBER:		161551792
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1001 N. UNIVERSITY AVE.
+		CITY:			LITTLE ROCK
+		STATE:			AR
+		ZIP:			72207
+		BUSINESS PHONE:		5013769051
+
+	MAIL ADDRESS:	
+		STREET 1:		P.O. BOX 7757
+		CITY:			LITTLE ROCK
+		STATE:			AR
+		ZIP:			72217
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	RESOURCE PLANNING GROUP INC                             /ADV
+		DATE OF NAME CHANGE:	19880926
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ARKANSAS FINANCIAL GROUP INC                            /ADV
+		DATE OF NAME CHANGE:	19850314
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>false</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0000764611</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>12-31-2013</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>12-31-2013</reportCalendarOrQuarter>
+      <filingManager>
+        <name>ARKANSAS FINANCIAL GROUP, INC.</name>
+        <address>
+          <com:street1>P.O. BOX 7757</com:street1>
+          <com:city>LITTLE ROCK</com:city>
+          <com:stateOrCountry>AR</com:stateOrCountry>
+          <com:zipCode>72217</com:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-17010</form13FFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Kristina Bolhouse</name>
+      <title>Chief Compliance Officer</title>
+      <phone>(501) 376-9051</phone>
+      <signature>Kristina Bolhouse</signature>
+      <city>Little Rock</city>
+      <stateOrCountry>AR</stateOrCountry>
+      <signatureDate>04-04-2016</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>0</otherIncludedManagersCount>
+      <tableEntryTotal>22</tableEntryTotal>
+      <tableValueTotal>164826</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>akfncl4q2013.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<n1:informationTable xmlns:n1="http://www.sec.gov/edgar/document/thirteenf/informationtable">
+	<n1:infoTable>
+		<n1:nameOfIssuer>Bershire Hathaway Class B</n1:nameOfIssuer>
+		<n1:titleOfClass>CL A</n1:titleOfClass>
+		<n1:cusip>84670207</n1:cusip>
+		<n1:value>980</n1:value>
+		<n1:shrsOrPrnAmt>
+			<n1:sshPrnamt>8264</n1:sshPrnamt>
+			<n1:sshPrnamtType>SH</n1:sshPrnamtType>
+		</n1:shrsOrPrnAmt>
+		<n1:investmentDiscretion>SOLE</n1:investmentDiscretion>
+		<n1:votingAuthority>
+			<n1:Sole>0</n1:Sole>
+			<n1:Shared>0</n1:Shared>
+			<n1:None>8264</n1:None>
+		</n1:votingAuthority>
+	</n1:infoTable>
+	<n1:infoTable>
+		<n1:nameOfIssuer>Exxon Mobil Corporation</n1:nameOfIssuer>
+		<n1:titleOfClass>COM</n1:titleOfClass>
+		<n1:cusip>30231G102</n1:cusip>
+		<n1:value>667</n1:value>
+		<n1:shrsOrPrnAmt>
+			<n1:sshPrnamt>6595</n1:sshPrnamt>
+			<n1:sshPrnamtType>SH</n1:sshPrnamtType>
+		</n1:shrsOrPrnAmt>
+		<n1:investmentDiscretion>SOLE</n1:investmentDiscretion>
+		<n1:votingAuthority>
+			<n1:Sole>0</n1:Sole>
+			<n1:Shared>0</n1:Shared>
+			<n1:None>6595</n1:None>
+		</n1:votingAuthority>
+	</n1:infoTable>
+	<n1:infoTable>
+		<n1:nameOfIssuer>Home BancShares, Inc.</n1:nameOfIssuer>
+		<n1:titleOfClass>COM</n1:titleOfClass>
+		<n1:cusip>436893200</n1:cusip>
+		<n1:value>1294</n1:value>
+		<n1:shrsOrPrnAmt>
+			<n1:sshPrnamt>34633</n1:sshPrnamt>
+			<n1:sshPrnamtType>SH</n1:sshPrnamtType>
+		</n1:shrsOrPrnAmt>
+		<n1:investmentDiscretion>SOLE</n1:investmentDiscretion>
+		<n1:votingAuthority>
+			<n1:Sole>0</n1:Sole>
+			<n1:Shared>0</n1:Shared>
+			<n1:None>34633</n1:None>
+		</n1:votingAuthority>
+	</n1:infoTable>
+	<n1:infoTable>
+		<n1:nameOfIssuer>Hunt J. B.Trans Svcs Inc</n1:nameOfIssuer>
+		<n1:titleOfClass>COM</n1:titleOfClass>
+		<n1:cusip>445658107</n1:cusip>
+		<n1:value>541</n1:value>
+		<n1:shrsOrPrnAmt>
+			<n1:sshPrnamt>6999</n1:sshPrnamt>
+			<n1:sshPrnamtType>SH</n1:sshPrnamtType>
+		</n1:shrsOrPrnAmt>
+		<n1:investmentDiscretion>SOLE</n1:investmentDiscretion>
+		<n1:votingAuthority>
+			<n1:Sole>0</n1:Sole>
+			<n1:Shared>0</n1:Shared>
+			<n1:None>6999</n1:None>
+		</n1:votingAuthority>
+	</n1:infoTable>
+	<n1:infoTable>
+		<n1:nameOfIssuer>IShares 1-3 yr Treas.</n1:nameOfIssuer>
+		<n1:titleOfClass>1-3 YR TR BD ETF</n1:titleOfClass>
+		<n1:cusip>464287457</n1:cusip>
+		<n1:value>1357</n1:value>
+		<n1:shrsOrPrnAmt>
+			<n1:sshPrnamt>16079</n1:sshPrnamt>
+			<n1:sshPrnamtType>SH</n1:sshPrnamtType>
+		</n1:shrsOrPrnAmt>
+		<n1:investmentDiscretion>SOLE</n1:investmentDiscretion>
+		<n1:votingAuthority>
+			<n1:Sole>0</n1:Sole>
+			<n1:Shared>0</n1:Shared>
+			<n1:None>16079</n1:None>
+		</n1:votingAuthority>
+	</n1:infoTable>
+	<n1:infoTable>
+		<n1:nameOfIssuer>iShares Barclays 1-3 yr Bnd</n1:nameOfIssuer>
+		<n1:titleOfClass>1-3 YR CR BD ETF</n1:titleOfClass>
+		<n1:cusip>464288646</n1:cusip>
+		<n1:value>16965</n1:value>
+		<n1:shrsOrPrnAmt>
+			<n1:sshPrnamt>160862</n1:sshPrnamt>
+			<n1:sshPrnamtType>SH</n1:sshPrnamtType>
+		</n1:shrsOrPrnAmt>
+		<n1:investmentDiscretion>SOLE</n1:investmentDiscretion>
+		<n1:votingAuthority>
+			<n1:Sole>0</n1:Sole>
+			<n1:Shared>0</n1:Shared>
+			<n1:None>160862</n1:None>
+		</n1:votingAuthority>
+	</n1:infoTable>
+	<n1:infoTable>
+		<n1:nameOfIssuer>Ishares Barclays Cr Bd Fd</n1:nameOfIssuer>
+		<n1:titleOfClass>CORE US CR BD</n1:titleOfClass>
+		<n1:cusip>464288620</n1:cusip>
+		<n1:value>211</n1:value>
+		<n1:shrsOrPrnAmt>
+			<n1:sshPrnamt>1973</n1:sshPrnamt>
+			<n1:sshPrnamtType>SH</n1:sshPrnamtType>
+		</n1:shrsOrPrnAmt>
+		<n1:investmentDiscretion>SOLE</n1:investmentDiscretion>
+		<n1:votingAuthority>
+			<n1:Sole>0</n1:Sole>
+			<n1:Shared>0</n1:Shared>
+			<n1:None>1973</n1:None>
+		</n1:votingAuthority>
+	</n1:infoTable>
+	<n1:infoTable>
+		<n1:nameOfIssuer>iShares Barclays Intrm Bnd</n1:nameOfIssuer>
+		<n1:titleOfClass>INTERM CR BD ETF</n1:titleOfClass>
+		<n1:cusip>464288638</n1:cusip>
+		<n1:value>16978</n1:value>
+		<n1:shrsOrPrnAmt>
+			<n1:sshPrnamt>157377</n1:sshPrnamt>
+			<n1:sshPrnamtType>SH</n1:sshPrnamtType>
+		</n1:shrsOrPrnAmt>
+		<n1:investmentDiscretion>SOLE</n1:investmentDiscretion>
+		<n1:votingAuthority>
+			<n1:Sole>0</n1:Sole>
+			<n1:Shared>0</n1:Shared>
+			<n1:None>157377</n1:None>
+		</n1:votingAuthority>
+	</n1:infoTable>
+	<n1:infoTable>
+		<n1:nameOfIssuer>iShares Gold Trust</n1:nameOfIssuer>
+		<n1:titleOfClass>ISHARES</n1:titleOfClass>
+		<n1:cusip>464285105</n1:cusip>
+		<n1:value>250</n1:value>
+		<n1:shrsOrPrnAmt>
+			<n1:sshPrnamt>21370</n1:sshPrnamt>
+			<n1:sshPrnamtType>SH</n1:sshPrnamtType>
+		</n1:shrsOrPrnAmt>
+		<n1:investmentDiscretion>SOLE</n1:investmentDiscretion>
+		<n1:votingAuthority>
+			<n1:Sole>0</n1:Sole>
+			<n1:Shared>0</n1:Shared>
+			<n1:None>21370</n1:None>
+		</n1:votingAuthority>
+	</n1:infoTable>
+	<n1:infoTable>
+		<n1:nameOfIssuer>IShares S&amp;P 500 Index</n1:nameOfIssuer>
+		<n1:titleOfClass>CORE S&amp;P500 ETF</n1:titleOfClass>
+		<n1:cusip>464287200</n1:cusip>
+		<n1:value>6364</n1:value>
+		<n1:shrsOrPrnAmt>
+			<n1:sshPrnamt>34279</n1:sshPrnamt>
+			<n1:sshPrnamtType>SH</n1:sshPrnamtType>
+		</n1:shrsOrPrnAmt>
+		<n1:investmentDiscretion>SOLE</n1:investmentDiscretion>
+		<n1:votingAuthority>
+			<n1:Sole>0</n1:Sole>
+			<n1:Shared>0</n1:Shared>
+			<n1:None>34279</n1:None>
+		</n1:votingAuthority>
+	</n1:infoTable>
+	<n1:infoTable>
+		<n1:nameOfIssuer>iShares SP SmallCap 600 Index</n1:nameOfIssuer>
+		<n1:titleOfClass>CORE S&amp;P SCP ETF</n1:titleOfClass>
+		<n1:cusip>464287804</n1:cusip>
+		<n1:value>230</n1:value>
+		<n1:shrsOrPrnAmt>
+			<n1:sshPrnamt>2110</n1:sshPrnamt>
+			<n1:sshPrnamtType>SH</n1:sshPrnamtType>
+		</n1:shrsOrPrnAmt>
+		<n1:investmentDiscretion>SOLE</n1:investmentDiscretion>
+		<n1:votingAuthority>
+			<n1:Sole>0</n1:Sole>
+			<n1:Shared>0</n1:Shared>
+			<n1:None>2110</n1:None>
+		</n1:votingAuthority>
+	</n1:infoTable>
+	<n1:infoTable>
+		<n1:nameOfIssuer>Ishares Tr Dow Jones Us Pharmaceuticals Index Fd</n1:nameOfIssuer>
+		<n1:titleOfClass>U.S. PHARMA ETF</n1:titleOfClass>
+		<n1:cusip>464288836</n1:cusip>
+		<n1:value>272</n1:value>
+		<n1:shrsOrPrnAmt>
+			<n1:sshPrnamt>2301</n1:sshPrnamt>
+			<n1:sshPrnamtType>SH</n1:sshPrnamtType>
+		</n1:shrsOrPrnAmt>
+		<n1:investmentDiscretion>SOLE</n1:investmentDiscretion>
+		<n1:votingAuthority>
+			<n1:Sole>0</n1:Sole>
+			<n1:Shared>0</n1:Shared>
+			<n1:None>2301</n1:None>
+		</n1:votingAuthority>
+	</n1:infoTable>
+	<n1:infoTable>
+		<n1:nameOfIssuer>IShares TR S&amp;P Midcap 400 Index</n1:nameOfIssuer>
+		<n1:titleOfClass>CORE S&amp;P MCP ETF</n1:titleOfClass>
+		<n1:cusip>464287507</n1:cusip>
+		<n1:value>27632</n1:value>
+		<n1:shrsOrPrnAmt>
+			<n1:sshPrnamt>206499</n1:sshPrnamt>
+			<n1:sshPrnamtType>SH</n1:sshPrnamtType>
+		</n1:shrsOrPrnAmt>
+		<n1:investmentDiscretion>SOLE</n1:investmentDiscretion>
+		<n1:votingAuthority>
+			<n1:Sole>0</n1:Sole>
+			<n1:Shared>0</n1:Shared>
+			<n1:None>206499</n1:None>
+		</n1:votingAuthority>
+	</n1:infoTable>
+	<n1:infoTable>
+		<n1:nameOfIssuer>Regions Financial Corporation</n1:nameOfIssuer>
+		<n1:titleOfClass>COM</n1:titleOfClass>
+		<n1:cusip>7591EP100</n1:cusip>
+		<n1:value>302</n1:value>
+		<n1:shrsOrPrnAmt>
+			<n1:sshPrnamt>30541</n1:sshPrnamt>
+			<n1:sshPrnamtType>SH</n1:sshPrnamtType>
+		</n1:shrsOrPrnAmt>
+		<n1:investmentDiscretion>SOLE</n1:investmentDiscretion>
+		<n1:votingAuthority>
+			<n1:Sole>0</n1:Sole>
+			<n1:Shared>0</n1:Shared>
+			<n1:None>30541</n1:None>
+		</n1:votingAuthority>
+	</n1:infoTable>
+	<n1:infoTable>
+		<n1:nameOfIssuer>S&amp;P 500 Depository Receipts</n1:nameOfIssuer>
+		<n1:titleOfClass>TR UNIT</n1:titleOfClass>
+		<n1:cusip>78462F103</n1:cusip>
+		<n1:value>4857</n1:value>
+		<n1:shrsOrPrnAmt>
+			<n1:sshPrnamt>26300</n1:sshPrnamt>
+			<n1:sshPrnamtType>SH</n1:sshPrnamtType>
+		</n1:shrsOrPrnAmt>
+		<n1:investmentDiscretion>SOLE</n1:investmentDiscretion>
+		<n1:votingAuthority>
+			<n1:Sole>0</n1:Sole>
+			<n1:Shared>0</n1:Shared>
+			<n1:None>26300</n1:None>
+		</n1:votingAuthority>
+	</n1:infoTable>
+	<n1:infoTable>
+		<n1:nameOfIssuer>Schwab US Mid-Cap ETF</n1:nameOfIssuer>
+		<n1:titleOfClass>US MID-CAP ETF</n1:titleOfClass>
+		<n1:cusip>808524508</n1:cusip>
+		<n1:value>761</n1:value>
+		<n1:shrsOrPrnAmt>
+			<n1:sshPrnamt>20337</n1:sshPrnamt>
+			<n1:sshPrnamtType>SH</n1:sshPrnamtType>
+		</n1:shrsOrPrnAmt>
+		<n1:investmentDiscretion>SOLE</n1:investmentDiscretion>
+		<n1:votingAuthority>
+			<n1:Sole>0</n1:Sole>
+			<n1:Shared>0</n1:Shared>
+			<n1:None>20337</n1:None>
+		</n1:votingAuthority>
+	</n1:infoTable>
+	<n1:infoTable>
+		<n1:nameOfIssuer>SPDR Dow Jones Indl Avg ETF</n1:nameOfIssuer>
+		<n1:titleOfClass>UT SER 1</n1:titleOfClass>
+		<n1:cusip>78467X109</n1:cusip>
+		<n1:value>35907</n1:value>
+		<n1:shrsOrPrnAmt>
+			<n1:sshPrnamt>216999</n1:sshPrnamt>
+			<n1:sshPrnamtType>SH</n1:sshPrnamtType>
+		</n1:shrsOrPrnAmt>
+		<n1:investmentDiscretion>SOLE</n1:investmentDiscretion>
+		<n1:votingAuthority>
+			<n1:Sole>0</n1:Sole>
+			<n1:Shared>0</n1:Shared>
+			<n1:None>216999</n1:None>
+		</n1:votingAuthority>
+	</n1:infoTable>
+	<n1:infoTable>
+		<n1:nameOfIssuer>Vanguard Midcap Viper</n1:nameOfIssuer>
+		<n1:titleOfClass>MID CAP ETF</n1:titleOfClass>
+		<n1:cusip>922908629</n1:cusip>
+		<n1:value>12595</n1:value>
+		<n1:shrsOrPrnAmt>
+			<n1:sshPrnamt>114477</n1:sshPrnamt>
+			<n1:sshPrnamtType>SH</n1:sshPrnamtType>
+		</n1:shrsOrPrnAmt>
+		<n1:investmentDiscretion>SOLE</n1:investmentDiscretion>
+		<n1:votingAuthority>
+			<n1:Sole>0</n1:Sole>
+			<n1:Shared>0</n1:Shared>
+			<n1:None>114477</n1:None>
+		</n1:votingAuthority>
+	</n1:infoTable>
+	<n1:infoTable>
+		<n1:nameOfIssuer>Vanguard REIT Viper</n1:nameOfIssuer>
+		<n1:titleOfClass>REIT ETF</n1:titleOfClass>
+		<n1:cusip>922908553</n1:cusip>
+		<n1:value>635</n1:value>
+		<n1:shrsOrPrnAmt>
+			<n1:sshPrnamt>9840</n1:sshPrnamt>
+			<n1:sshPrnamtType>SH</n1:sshPrnamtType>
+		</n1:shrsOrPrnAmt>
+		<n1:investmentDiscretion>SOLE</n1:investmentDiscretion>
+		<n1:votingAuthority>
+			<n1:Sole>0</n1:Sole>
+			<n1:Shared>0</n1:Shared>
+			<n1:None>9840</n1:None>
+		</n1:votingAuthority>
+	</n1:infoTable>
+</n1:informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

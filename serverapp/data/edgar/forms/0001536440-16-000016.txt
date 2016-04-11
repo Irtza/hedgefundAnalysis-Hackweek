@@ -1,0 +1,104 @@
+<SEC-DOCUMENT>0001536440-16-000016.txt : 20160406
+<SEC-HEADER>0001536440-16-000016.hdr.sgml : 20160406
+<ACCEPTANCE-DATETIME>20160406140800
+ACCESSION NUMBER:		0001536440-16-000016
+CONFORMED SUBMISSION TYPE:	13F-NT
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20160331
+FILED AS OF DATE:		20160406
+DATE AS OF CHANGE:		20160406
+EFFECTIVENESS DATE:		20160406
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Kenan Thomas S III
+		CENTRAL INDEX KEY:			0000798999
+		STATE OF INCORPORATION:			NC
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-NT
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-01818
+		FILM NUMBER:		161557159
+
+	MAIL ADDRESS:	
+		STREET 1:		100 EUROPA DRIVE
+		STREET 2:		SUITE 525
+		CITY:			CHAPEL HILL
+		STATE:			NC
+		ZIP:			27515
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	KENAN THOMAS S III
+		DATE OF NAME CHANGE:	19950113
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-NT
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>13F-NT</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>false</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0000798999</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>03-31-2016</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>03-31-2016</reportCalendarOrQuarter>
+      <filingManager>
+        <name>Kenan Thomas S III</name>
+        <address>
+          <com:street1>100 EUROPA DRIVE</com:street1>
+          <com:street2>SUITE 525</com:street2>
+          <com:city>CHAPEL HILL</com:city>
+          <com:stateOrCountry>NC</com:stateOrCountry>
+          <com:zipCode>27515</com:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F NOTICE</reportType>
+      <form13FFileNumber>028-01818</form13FFileNumber>
+      <otherManagersInfo>
+        <otherManager>
+          <form13FFileNumber>028-694</form13FFileNumber>
+          <name>J.P. Morgan Chase &amp; Co.</name>
+        </otherManager>
+        <otherManager>
+          <form13FFileNumber>028-685</form13FFileNumber>
+          <name>The Duke Endowment</name>
+        </otherManager>
+      </otherManagersInfo>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Thomas S. Kenan, III</name>
+      <title>Individual</title>
+      <phone>919-967-0618</phone>
+      <signature>Thomas S. Kenan, III</signature>
+      <city>Chapel Hill</city>
+      <stateOrCountry>NC</stateOrCountry>
+      <signatureDate>04-05-2016</signatureDate>
+    </signatureBlock>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

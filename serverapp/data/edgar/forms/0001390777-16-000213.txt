@@ -1,0 +1,368 @@
+<SEC-DOCUMENT>0001390777-16-000213.txt : 20160401
+<SEC-HEADER>0001390777-16-000213.hdr.sgml : 20160401
+<ACCEPTANCE-DATETIME>20160401152003
+ACCESSION NUMBER:		0001390777-16-000213
+CONFORMED SUBMISSION TYPE:	13F-HR/A
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20140331
+FILED AS OF DATE:		20160401
+DATE AS OF CHANGE:		20160401
+EFFECTIVENESS DATE:		20160401
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Bank of New York Mellon Corp
+		CENTRAL INDEX KEY:			0001390777
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				132614959
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-12592
+		FILM NUMBER:		161546752
+
+	BUSINESS ADDRESS:	
+		STREET 1:		225 LIBERTY STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10286
+		BUSINESS PHONE:		212-495-1784
+
+	MAIL ADDRESS:	
+		STREET 1:		225 LIBERTY STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10286
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Bank of New York Mellon CORP
+		DATE OF NAME CHANGE:	20070221
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>13F-HR/A</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>true</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001390777</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>03-31-2014</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>03-31-2014</reportCalendarOrQuarter>
+      <isAmendment>true</isAmendment>
+      <amendmentNo>2</amendmentNo>
+      <amendmentInfo>
+        <amendmentType>NEW HOLDINGS</amendmentType>
+      </amendmentInfo>
+      <filingManager>
+        <name>Bank of New York Mellon Corp</name>
+        <address>
+          <com:street1>225 LIBERTY STREET</com:street1>
+          <com:city>NEW YORK</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10286</com:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F COMBINATION REPORT</reportType>
+      <form13FFileNumber>028-12592</form13FFileNumber>
+      <otherManagersInfo>
+        <otherManager>
+          <cik>0001197921</cik>
+          <form13FFileNumber>028-15333</form13FFileNumber>
+          <name>KELLOGG W K FOUNDATION TRUST</name>
+        </otherManager>
+      </otherManagersInfo>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Nicholas R. Darrow</name>
+      <title>Senior Vice President</title>
+      <phone>516-338-3740</phone>
+      <signature>Nicholas R. Darrow</signature>
+      <city>Uniondale</city>
+      <stateOrCountry>NY</stateOrCountry>
+      <signatureDate>04-01-2016</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>7</otherIncludedManagersCount>
+      <tableEntryTotal>11</tableEntryTotal>
+      <tableValueTotal>244333</tableValueTotal>
+      <otherManagers2Info>
+        <otherManager2>
+          <sequenceNumber>4</sequenceNumber>
+          <otherManager>
+            <form13FFileNumber>028-12592</form13FFileNumber>
+            <name>BNY Mellon Trust of Delaware</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>15</sequenceNumber>
+          <otherManager>
+            <form13FFileNumber>028-02900</form13FFileNumber>
+            <name>Mellon Capital Management Corporation</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>22</sequenceNumber>
+          <otherManager>
+            <form13FFileNumber>028-00127</form13FFileNumber>
+            <name>The Dreyfus Corporation</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>48</sequenceNumber>
+          <otherManager>
+            <form13FFileNumber>028-02009</form13FFileNumber>
+            <name>The Bank of New York Mellon</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>49</sequenceNumber>
+          <otherManager>
+            <form13FFileNumber>028-00620</form13FFileNumber>
+            <name>BNY Mellon, NA</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>59</sequenceNumber>
+          <otherManager>
+            <form13FFileNumber>028-11769</form13FFileNumber>
+            <name>Lockwood Advisors, Inc.</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>64</sequenceNumber>
+          <otherManager>
+            <form13FFileNumber>028-12592</form13FFileNumber>
+            <name>BNY Mellon Service Kapitalanlage-Gesellschaft mbH</name>
+          </otherManager>
+        </otherManager2>
+      </otherManagers2Info>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>xml_filing.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<informationTable xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable" xmlns:xsi=" http://www.w3.org/2001/XMLSchema-instance">
+<infoTable>
+<nameOfIssuer>KELLOGG CO</nameOfIssuer>
+<titleOfClass>COM</titleOfClass>
+<cusip>487836108</cusip>
+<value>171975</value>
+<shrsOrPrnAmt>
+<sshPrnamt>2742378</sshPrnamt>
+<sshPrnamtType>SH</sshPrnamtType>
+</shrsOrPrnAmt>
+<investmentDiscretion>DFND</investmentDiscretion>
+<otherManager>15</otherManager>
+<votingAuthority>
+<Sole>1959594</Sole>
+<Shared>0</Shared>
+<None>782784</None>
+</votingAuthority>
+</infoTable>
+<infoTable>
+<nameOfIssuer>KELLOGG CO</nameOfIssuer>
+<titleOfClass>COM</titleOfClass>
+<cusip>487836108</cusip>
+<value>4603</value>
+<shrsOrPrnAmt>
+<sshPrnamt>73400</sshPrnamt>
+<sshPrnamtType>SH</sshPrnamtType>
+</shrsOrPrnAmt>
+<investmentDiscretion>DFND</investmentDiscretion>
+<otherManager>22</otherManager>
+<votingAuthority>
+<Sole>73400</Sole>
+<Shared>0</Shared>
+<None>0</None>
+</votingAuthority>
+</infoTable>
+<infoTable>
+<nameOfIssuer>KELLOGG CO</nameOfIssuer>
+<titleOfClass>COM</titleOfClass>
+<cusip>487836108</cusip>
+<value>76</value>
+<shrsOrPrnAmt>
+<sshPrnamt>1205</sshPrnamt>
+<sshPrnamtType>SH</sshPrnamtType>
+</shrsOrPrnAmt>
+<investmentDiscretion>DFND</investmentDiscretion>
+<otherManager>4</otherManager>
+<votingAuthority>
+<Sole>1205</Sole>
+<Shared>0</Shared>
+<None>0</None>
+</votingAuthority>
+</infoTable>
+<infoTable>
+<nameOfIssuer>KELLOGG CO</nameOfIssuer>
+<titleOfClass>COM</titleOfClass>
+<cusip>487836108</cusip>
+<value>25</value>
+<shrsOrPrnAmt>
+<sshPrnamt>400</sshPrnamt>
+<sshPrnamtType>SH</sshPrnamtType>
+</shrsOrPrnAmt>
+<investmentDiscretion>OTR</investmentDiscretion>
+<otherManager>4</otherManager>
+<votingAuthority>
+<Sole>400</Sole>
+<Shared>0</Shared>
+<None>0</None>
+</votingAuthority>
+</infoTable>
+<infoTable>
+<nameOfIssuer>KELLOGG CO</nameOfIssuer>
+<titleOfClass>COM</titleOfClass>
+<cusip>487836108</cusip>
+<value>60568</value>
+<shrsOrPrnAmt>
+<sshPrnamt>965843</sshPrnamt>
+<sshPrnamtType>SH</sshPrnamtType>
+</shrsOrPrnAmt>
+<investmentDiscretion>DFND</investmentDiscretion>
+<otherManager>48</otherManager>
+<votingAuthority>
+<Sole>938561</Sole>
+<Shared>0</Shared>
+<None>27282</None>
+</votingAuthority>
+</infoTable>
+<infoTable>
+<nameOfIssuer>KELLOGG CO</nameOfIssuer>
+<titleOfClass>COM</titleOfClass>
+<cusip>487836108</cusip>
+<value>4292</value>
+<shrsOrPrnAmt>
+<sshPrnamt>68440</sshPrnamt>
+<sshPrnamtType>SH</sshPrnamtType>
+</shrsOrPrnAmt>
+<investmentDiscretion>DFND</investmentDiscretion>
+<otherManager>49</otherManager>
+<votingAuthority>
+<Sole>65825</Sole>
+<Shared>0</Shared>
+<None>2615</None>
+</votingAuthority>
+</infoTable>
+<infoTable>
+<nameOfIssuer>KELLOGG CO</nameOfIssuer>
+<titleOfClass>COM</titleOfClass>
+<cusip>487836108</cusip>
+<value>2442</value>
+<shrsOrPrnAmt>
+<sshPrnamt>38948</sshPrnamt>
+<sshPrnamtType>SH</sshPrnamtType>
+</shrsOrPrnAmt>
+<investmentDiscretion>OTR</investmentDiscretion>
+<otherManager>49</otherManager>
+<votingAuthority>
+<Sole>21828</Sole>
+<Shared>15020</Shared>
+<None>2100</None>
+</votingAuthority>
+</infoTable>
+<infoTable>
+<nameOfIssuer>KELLOGG CO</nameOfIssuer>
+<titleOfClass>COM</titleOfClass>
+<cusip>487836108</cusip>
+<value>8</value>
+<shrsOrPrnAmt>
+<sshPrnamt>120</sshPrnamt>
+<sshPrnamtType>SH</sshPrnamtType>
+</shrsOrPrnAmt>
+<investmentDiscretion>DFND</investmentDiscretion>
+<otherManager>59</otherManager>
+<votingAuthority>
+<Sole>112</Sole>
+<Shared>0</Shared>
+<None>8</None>
+</votingAuthority>
+</infoTable>
+<infoTable>
+<nameOfIssuer>KELLOGG CO</nameOfIssuer>
+<titleOfClass>COM</titleOfClass>
+<cusip>487836108</cusip>
+<value>176</value>
+<shrsOrPrnAmt>
+<sshPrnamt>2800</sshPrnamt>
+<sshPrnamtType>SH</sshPrnamtType>
+</shrsOrPrnAmt>
+<investmentDiscretion>DFND</investmentDiscretion>
+<otherManager>64</otherManager>
+<votingAuthority>
+<Sole>2800</Sole>
+<Shared>0</Shared>
+<None>0</None>
+</votingAuthority>
+</infoTable>
+<infoTable>
+<nameOfIssuer>KELLOGG CO</nameOfIssuer>
+<titleOfClass>COM</titleOfClass>
+<cusip>487836108</cusip>
+<value>152</value>
+<shrsOrPrnAmt>
+<sshPrnamt>2429</sshPrnamt>
+<sshPrnamtType>SH</sshPrnamtType>
+</shrsOrPrnAmt>
+<investmentDiscretion>DFND</investmentDiscretion>
+<otherManager> </otherManager>
+<votingAuthority>
+<Sole>2429</Sole>
+<Shared>0</Shared>
+<None>0</None>
+</votingAuthority>
+</infoTable>
+<infoTable>
+<nameOfIssuer>KELLOGG CO</nameOfIssuer>
+<titleOfClass>COM</titleOfClass>
+<cusip>487836108</cusip>
+<value>16</value>
+<shrsOrPrnAmt>
+<sshPrnamt>260</sshPrnamt>
+<sshPrnamtType>SH</sshPrnamtType>
+</shrsOrPrnAmt>
+<investmentDiscretion>DFND</investmentDiscretion>
+<otherManager> </otherManager>
+<votingAuthority>
+<Sole>260</Sole>
+<Shared>0</Shared>
+<None>0</None>
+</votingAuthority>
+</infoTable>
+</informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

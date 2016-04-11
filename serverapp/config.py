@@ -1,0 +1,1 @@
+SQLALCHEMY_DATABASE_URI = "postgresql://irtza:hedgefund@localhost:5432/oquantdatabase"

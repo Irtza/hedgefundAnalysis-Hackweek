@@ -1,0 +1,155 @@
+<SEC-DOCUMENT>0001085146-16-003390.txt : 20160406
+<SEC-HEADER>0001085146-16-003390.hdr.sgml : 20160406
+<ACCEPTANCE-DATETIME>20160406081509
+ACCESSION NUMBER:		0001085146-16-003390
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20151231
+FILED AS OF DATE:		20160406
+DATE AS OF CHANGE:		20160406
+EFFECTIVENESS DATE:		20160406
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Peak Financial Management, Inc.
+		CENTRAL INDEX KEY:			0001669662
+		IRS NUMBER:				043127512
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-17408
+		FILM NUMBER:		161556559
+
+	BUSINESS ADDRESS:	
+		STREET 1:		281 WINTER STREET
+		STREET 2:		SUITE 160
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02451
+		BUSINESS PHONE:		781-487-9500
+
+	MAIL ADDRESS:	
+		STREET 1:		281 WINTER STREET
+		STREET 2:		SUITE 160
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02451
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xsi:schemaLocation="http://www.sec.gov/edgar/thirteenffiler eis_13F_Filer.xsd" xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:ns1="http://www.sec.gov/edgar/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>true</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001669662</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>12-31-2015</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>12-31-2015</reportCalendarOrQuarter>
+      <filingManager>
+        <name>Peak Financial Management, Inc.</name>
+        <address>
+          <ns1:street1>281 WINTER STREET</ns1:street1>
+          <ns1:street2>SUITE 160</ns1:street2>
+          <ns1:city>WALTHAM</ns1:city>
+          <ns1:stateOrCountry>MA</ns1:stateOrCountry>
+          <ns1:zipCode>02451</ns1:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-17408</form13FFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Neel Tiku</name>
+      <title>Chief Compliance Officer</title>
+      <phone>781 487-9500</phone>
+      <signature>/s/  Neel Tiku</signature>
+      <city>Waltham</city>
+      <stateOrCountry>MA</stateOrCountry>
+      <signatureDate>03-30-2016</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>0</otherIncludedManagersCount>
+      <tableEntryTotal>38</tableEntryTotal>
+      <tableValueTotal>236515</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>form13fInfoTable.xml
+<DESCRIPTION>DESCRIPTION FOR INFORMATION TABLE
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<informationTable xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><infoTable><nameOfIssuer>APOLLO RESIDENTIAL MTG INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>03763V102</cusip><value>248</value><shrsOrPrnAmt><sshPrnamt>20175</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>0</Sole><Shared>0</Shared><None>20175</None></votingAuthority></infoTable><infoTable><nameOfIssuer>APPLE INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>037833100</cusip><value>1174</value><shrsOrPrnAmt><sshPrnamt>10792</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>0</Sole><Shared>0</Shared><None>10792</None></votingAuthority></infoTable><infoTable><nameOfIssuer>BARCLAYS BK PLC</nameOfIssuer><titleOfClass>IPSPGS TTL ETN</titleOfClass><cusip>06738C794</cusip><value>453</value><shrsOrPrnAmt><sshPrnamt>452560</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>0</Sole><Shared>0</Shared><None>452560</None></votingAuthority></infoTable><infoTable><nameOfIssuer>DBX ETF TR</nameOfIssuer><titleOfClass>XTRAK MSCI EAFE</titleOfClass><cusip>233051200</cusip><value>18419</value><shrsOrPrnAmt><sshPrnamt>668335</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>0</Sole><Shared>0</Shared><None>668335</None></votingAuthority></infoTable><infoTable><nameOfIssuer>EXXON MOBIL CORP</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>30231G102</cusip><value>727</value><shrsOrPrnAmt><sshPrnamt>9186</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>0</Sole><Shared>0</Shared><None>9186</None></votingAuthority></infoTable><infoTable><nameOfIssuer>GENERAL ELECTRIC CO</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>369604103</cusip><value>329</value><shrsOrPrnAmt><sshPrnamt>10514</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>0</Sole><Shared>0</Shared><None>10514</None></votingAuthority></infoTable><infoTable><nameOfIssuer>ISHARES</nameOfIssuer><titleOfClass>CNTRY MIN VL ETF</titleOfClass><cusip>464286525</cusip><value>3750</value><shrsOrPrnAmt><sshPrnamt>53437</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>0</Sole><Shared>0</Shared><None>53437</None></votingAuthority></infoTable><infoTable><nameOfIssuer>ISHARES</nameOfIssuer><titleOfClass>CORE LT USDB ETF</titleOfClass><cusip>464289479</cusip><value>8250</value><shrsOrPrnAmt><sshPrnamt>141304</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>0</Sole><Shared>0</Shared><None>141304</None></votingAuthority></infoTable><infoTable><nameOfIssuer>ISHARES TR</nameOfIssuer><titleOfClass>CORE US AGGBD ET</titleOfClass><cusip>464287226</cusip><value>15020</value><shrsOrPrnAmt><sshPrnamt>139362</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>0</Sole><Shared>0</Shared><None>139362</None></votingAuthority></infoTable><infoTable><nameOfIssuer>ISHARES TR</nameOfIssuer><titleOfClass>MSCI EAFE ETF</titleOfClass><cusip>464287465</cusip><value>202</value><shrsOrPrnAmt><sshPrnamt>3365</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>0</Sole><Shared>0</Shared><None>3365</None></votingAuthority></infoTable><infoTable><nameOfIssuer>ISHARES TR</nameOfIssuer><titleOfClass>NASDQ BIOTEC ETF</titleOfClass><cusip>464287556</cusip><value>6889</value><shrsOrPrnAmt><sshPrnamt>20078</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>0</Sole><Shared>0</Shared><None>20078</None></votingAuthority></infoTable><infoTable><nameOfIssuer>ISHARES TR</nameOfIssuer><titleOfClass>MSCI ACWI ETF</titleOfClass><cusip>464288257</cusip><value>6862</value><shrsOrPrnAmt><sshPrnamt>120810</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>0</Sole><Shared>0</Shared><None>120810</None></votingAuthority></infoTable><infoTable><nameOfIssuer>ISHARES TR</nameOfIssuer><titleOfClass>INTRM GOV/CR ETF</titleOfClass><cusip>464288612</cusip><value>235</value><shrsOrPrnAmt><sshPrnamt>2144</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>0</Sole><Shared>0</Shared><None>2144</None></votingAuthority></infoTable><infoTable><nameOfIssuer>ISHARES TR</nameOfIssuer><titleOfClass>EAFE MIN VOL ETF</titleOfClass><cusip>46429B689</cusip><value>13457</value><shrsOrPrnAmt><sshPrnamt>204418</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>0</Sole><Shared>0</Shared><None>204418</None></votingAuthority></infoTable><infoTable><nameOfIssuer>JPMORGAN CHASE &amp; CO</nameOfIssuer><titleOfClass>ALERIAN ML ETN</titleOfClass><cusip>46625H365</cusip><value>5737</value><shrsOrPrnAmt><sshPrnamt>203740</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>0</Sole><Shared>0</Shared><None>203740</None></votingAuthority></infoTable><infoTable><nameOfIssuer>KAYNE ANDERSON MLP INVT CO</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>486606106</cusip><value>206</value><shrsOrPrnAmt><sshPrnamt>12620</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>0</Sole><Shared>0</Shared><None>12620</None></votingAuthority></infoTable><infoTable><nameOfIssuer>MARKET VECTORS ETF TR</nameOfIssuer><titleOfClass>MTG REIT ETF</titleOfClass><cusip>57060U324</cusip><value>7165</value><shrsOrPrnAmt><sshPrnamt>361862</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>0</Sole><Shared>0</Shared><None>361862</None></votingAuthority></infoTable><infoTable><nameOfIssuer>MARKET VECTORS ETF TR</nameOfIssuer><titleOfClass>INTL HI YLD BD</titleOfClass><cusip>57061R205</cusip><value>6054</value><shrsOrPrnAmt><sshPrnamt>266146</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>0</Sole><Shared>0</Shared><None>266146</None></votingAuthority></infoTable><infoTable><nameOfIssuer>META FINL GROUP INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>59100U108</cusip><value>1271</value><shrsOrPrnAmt><sshPrnamt>1271179</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>0</Sole><Shared>0</Shared><None>1271179</None></votingAuthority></infoTable><infoTable><nameOfIssuer>PHILIP MORRIS INTL INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>718172109</cusip><value>245</value><shrsOrPrnAmt><sshPrnamt>2738</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>0</Sole><Shared>0</Shared><None>2738</None></votingAuthority></infoTable><infoTable><nameOfIssuer>PROCTER &amp; GAMBLE CO</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>742718109</cusip><value>204</value><shrsOrPrnAmt><sshPrnamt>2541</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>0</Sole><Shared>0</Shared><None>2541</None></votingAuthority></infoTable><infoTable><nameOfIssuer>RYDEX ETF TRUST</nameOfIssuer><titleOfClass>GUG S&amp;P500EQWTHC</titleOfClass><cusip>78355W841</cusip><value>17680</value><shrsOrPrnAmt><sshPrnamt>113597</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>0</Sole><Shared>0</Shared><None>113597</None></votingAuthority></infoTable><infoTable><nameOfIssuer>SPDR S&amp;P 500 ETF TR</nameOfIssuer><titleOfClass>TR UNIT</titleOfClass><cusip>78462F103</cusip><value>201</value><shrsOrPrnAmt><sshPrnamt>967</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>0</Sole><Shared>0</Shared><None>967</None></votingAuthority></infoTable><infoTable><nameOfIssuer>SPDR SERIES TRUST</nameOfIssuer><titleOfClass>BARC SHT TR CP</titleOfClass><cusip>78464A474</cusip><value>343</value><shrsOrPrnAmt><sshPrnamt>11287</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>0</Sole><Shared>0</Shared><None>11287</None></votingAuthority></infoTable><infoTable><nameOfIssuer>SPDR SERIES TRUST</nameOfIssuer><titleOfClass>S&amp;P DIVID ETF</titleOfClass><cusip>78464A763</cusip><value>233</value><shrsOrPrnAmt><sshPrnamt>3115</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>0</Sole><Shared>0</Shared><None>3115</None></votingAuthority></infoTable><infoTable><nameOfIssuer>SPROTT PHYSICAL GOLD TRUST</nameOfIssuer><titleOfClass>UNIT</titleOfClass><cusip>85207H104</cusip><value>103</value><shrsOrPrnAmt><sshPrnamt>11785</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>0</Sole><Shared>0</Shared><None>11785</None></votingAuthority></infoTable><infoTable><nameOfIssuer>TELEFONICA S A</nameOfIssuer><titleOfClass>SPONSORED ADR</titleOfClass><cusip>879382208</cusip><value>125</value><shrsOrPrnAmt><sshPrnamt>124651</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>0</Sole><Shared>0</Shared><None>124651</None></votingAuthority></infoTable><infoTable><nameOfIssuer>VANGUARD CHARLOTTE FDS</nameOfIssuer><titleOfClass>INTL BD IDX ETF</titleOfClass><cusip>92203J407</cusip><value>12152</value><shrsOrPrnAmt><sshPrnamt>230159</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>0</Sole><Shared>0</Shared><None>230159</None></votingAuthority></infoTable><infoTable><nameOfIssuer>VANGUARD INDEX FDS</nameOfIssuer><titleOfClass>S&amp;P 500 ETF SHS</titleOfClass><cusip>922908363</cusip><value>19266</value><shrsOrPrnAmt><sshPrnamt>101293</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>0</Sole><Shared>0</Shared><None>101293</None></votingAuthority></infoTable><infoTable><nameOfIssuer>VANGUARD INDEX FDS</nameOfIssuer><titleOfClass>REIT ETF</titleOfClass><cusip>922908553</cusip><value>10097</value><shrsOrPrnAmt><sshPrnamt>124768</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>0</Sole><Shared>0</Shared><None>124768</None></votingAuthority></infoTable><infoTable><nameOfIssuer>VANGUARD INDEX FDS</nameOfIssuer><titleOfClass>TOTAL STK MKT</titleOfClass><cusip>922908769</cusip><value>27979</value><shrsOrPrnAmt><sshPrnamt>263652</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>0</Sole><Shared>0</Shared><None>263652</None></votingAuthority></infoTable><infoTable><nameOfIssuer>VANGUARD INTL EQUITY INDEX F</nameOfIssuer><titleOfClass>FTSE EMR MKT ETF</titleOfClass><cusip>922042858</cusip><value>6706</value><shrsOrPrnAmt><sshPrnamt>202241</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>0</Sole><Shared>0</Shared><None>202241</None></votingAuthority></infoTable><infoTable><nameOfIssuer>VANGUARD SCOTTSDALE FDS</nameOfIssuer><titleOfClass>VNG RUS2000GRW</titleOfClass><cusip>92206C623</cusip><value>6525</value><shrsOrPrnAmt><sshPrnamt>62990</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>0</Sole><Shared>0</Shared><None>62990</None></votingAuthority></infoTable><infoTable><nameOfIssuer>VANGUARD SCOTTSDALE FDS</nameOfIssuer><titleOfClass>INT-TERM CORP</titleOfClass><cusip>92206C870</cusip><value>4495</value><shrsOrPrnAmt><sshPrnamt>53565</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>0</Sole><Shared>0</Shared><None>53565</None></votingAuthority></infoTable><infoTable><nameOfIssuer>VANGUARD TAX MANAGED INTL FD</nameOfIssuer><titleOfClass>FTSE DEV MKT ETF</titleOfClass><cusip>921943858</cusip><value>4764</value><shrsOrPrnAmt><sshPrnamt>127318</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>0</Sole><Shared>0</Shared><None>127318</None></votingAuthority></infoTable><infoTable><nameOfIssuer>VANGUARD WORLD FDS</nameOfIssuer><titleOfClass>CONSUM DIS ETF</titleOfClass><cusip>92204A108</cusip><value>1101</value><shrsOrPrnAmt><sshPrnamt>8836</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>0</Sole><Shared>0</Shared><None>8836</None></votingAuthority></infoTable><infoTable><nameOfIssuer>VANGUARD WORLD FDS</nameOfIssuer><titleOfClass>INF TECH ETF</titleOfClass><cusip>92204A702</cusip><value>19519</value><shrsOrPrnAmt><sshPrnamt>176289</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>0</Sole><Shared>0</Shared><None>176289</None></votingAuthority></infoTable><infoTable><nameOfIssuer>WISDOMTREE TR</nameOfIssuer><titleOfClass>EUR HDG SMLCAP</titleOfClass><cusip>97717X552</cusip><value>8329</value><shrsOrPrnAmt><sshPrnamt>335996</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><otherManager>
+		</otherManager><votingAuthority><Sole>0</Sole><Shared>0</Shared><None>335996</None></votingAuthority></infoTable></informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

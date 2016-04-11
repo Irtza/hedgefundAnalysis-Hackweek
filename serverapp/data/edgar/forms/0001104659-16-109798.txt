@@ -1,0 +1,106 @@
+<SEC-DOCUMENT>0001104659-16-109798.txt : 20160405
+<SEC-HEADER>0001104659-16-109798.hdr.sgml : 20160405
+<ACCEPTANCE-DATETIME>20160405114507
+ACCESSION NUMBER:		0001104659-16-109798
+CONFORMED SUBMISSION TYPE:	13F-NT
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20160331
+FILED AS OF DATE:		20160405
+DATE AS OF CHANGE:		20160405
+EFFECTIVENESS DATE:		20160405
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Innovator Management LLC
+		CENTRAL INDEX KEY:			0001599368
+		IRS NUMBER:				453336998
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-NT
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-15743
+		FILM NUMBER:		161553459
+
+	BUSINESS ADDRESS:	
+		STREET 1:		325 CHESTNUT STREET
+		STREET 2:		SUITE 512
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19106
+		BUSINESS PHONE:		215-979-3750
+
+	MAIL ADDRESS:	
+		STREET 1:		325 CHESTNUT STREET
+		STREET 2:		SUITE 512
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19106
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-NT
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xsi:schemaLocation="http://www.sec.gov/edgar/thirteenffiler eis_13F_Filer.xsd" xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:ns1="http://www.sec.gov/edgar/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <headerData>
+    <submissionType>13F-NT</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <filer>
+        <credentials>
+          <cik>0001599368</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>03-31-2016</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>03-31-2016</reportCalendarOrQuarter>
+      <isAmendment>false</isAmendment>
+      <filingManager>
+        <name>Innovator Management LLC</name>
+        <address>
+          <ns1:street1>325 Chestnut Street</ns1:street1>
+          <ns1:street2>Suite 512</ns1:street2>
+          <ns1:city>Philadelphia</ns1:city>
+          <ns1:stateOrCountry>PA</ns1:stateOrCountry>
+          <ns1:zipCode>19106</ns1:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F NOTICE</reportType>
+      <form13FFileNumber>028-15743</form13FFileNumber>
+      <otherManagersInfo>
+        <otherManager>
+          <cik>0001593324</cik>
+          <form13FFileNumber>028-17117</form13FFileNumber>
+          <name>Penserra Capital Management LLC</name>
+        </otherManager>
+        <otherManager>
+          <form13FFileNumber>028-03719</form13FFileNumber>
+          <name>McKinley Capital Management, LLC</name>
+        </otherManager>
+      </otherManagersInfo>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>David Jacovini</name>
+      <title>President</title>
+      <phone>215-979-3754</phone>
+      <signature>/s/ David Jacovini</signature>
+      <city>Philadelphia</city>
+      <stateOrCountry>PA</stateOrCountry>
+      <signatureDate>04-05-2016</signatureDate>
+    </signatureBlock>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

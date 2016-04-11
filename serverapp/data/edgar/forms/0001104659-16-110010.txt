@@ -1,0 +1,157 @@
+<SEC-DOCUMENT>0001104659-16-110010.txt : 20160406
+<SEC-HEADER>0001104659-16-110010.hdr.sgml : 20160406
+<ACCEPTANCE-DATETIME>20160406060422
+ACCESSION NUMBER:		0001104659-16-110010
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20160331
+FILED AS OF DATE:		20160406
+DATE AS OF CHANGE:		20160406
+EFFECTIVENESS DATE:		20160406
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Overlook Holdings Ltd
+		CENTRAL INDEX KEY:			0001569857
+		IRS NUMBER:				981031622
+		STATE OF INCORPORATION:			D8
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-15402
+		FILM NUMBER:		161556482
+
+	BUSINESS ADDRESS:	
+		STREET 1:		P.O. BOX 438, PALM GROVE HOUSE
+		STREET 2:		ROAD TOWN
+		CITY:			TORTOLA
+		STATE:			D8
+		ZIP:			VG1110
+		BUSINESS PHONE:		852-2912-0800
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O OVERLOOK INVESTMENTS LIMITED
+		STREET 2:		22/F RUTTONJEE HOUSE, 11 DUDDELL STREET
+		CITY:			HONG KONG
+		STATE:			K3
+		ZIP:			00000
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xsi:schemaLocation="http://www.sec.gov/edgar/thirteenffiler eis_13F_Filer.xsd" xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:ns1="http://www.sec.gov/edgar/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <filer>
+        <credentials>
+          <cik>0001569857</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>03-31-2016</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>03-31-2016</reportCalendarOrQuarter>
+      <isAmendment>false</isAmendment>
+      <filingManager>
+        <name>Overlook Holdings Ltd</name>
+        <address>
+          <ns1:street1>C/O OVERLOOK INVESTMENTS LIMITED</ns1:street1>
+          <ns1:street2>22/F RUTTONJEE HOUSE, 11 DUDDELL STREET</ns1:street2>
+          <ns1:city>HONG KONG</ns1:city>
+          <ns1:stateOrCountry>K3</ns1:stateOrCountry>
+          <ns1:zipCode>00000</ns1:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-15402</form13FFileNumber>
+      <provideInfoForInstruction5>Y</provideInfoForInstruction5>
+      <additionalInformation>The filing of this report shall not be deemed an admission, for purposes of Section 13(f), 13(d), 13(g), or 16(a) under the Securities Exchange Act of 1934, as amended, and the rules thereunder, or for any other purpose, that the Reporting Manager or any other person (including Other Included Managers named herein) is the beneficial owner of any securities. OVERLOOK HOLDINGS LIMITED disclaims status as an institutional investment manager and makes this filing in its capacity as the parent entity of investment advisers. OVERLOOK HOLDINGS LIMITED or its subsidiaries act as general partner, investment advisers, or members of various entities and therefore may exercise investment or voting discretion for them. OVERLOOK HOLDINGS LIMITED disclaims that it exercises investment or voting discretion for such entities, but includes the holdings of all such entities in this form.</additionalInformation>
+    </coverPage>
+    <signatureBlock>
+      <name>MICHAEL LONERGAN</name>
+      <title>DIRECTOR</title>
+      <phone>852 2912 0805</phone>
+      <signature>/s/ MICHAEL LONERGAN</signature>
+      <city>HONG KONG</city>
+      <stateOrCountry>K3</stateOrCountry>
+      <signatureDate>04-06-2016</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>3</otherIncludedManagersCount>
+      <tableEntryTotal>1</tableEntryTotal>
+      <tableValueTotal>226191</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+      <otherManagers2Info>
+        <otherManager2>
+          <sequenceNumber>1</sequenceNumber>
+          <otherManager>
+            <cik>0001569762</cik>
+            <form13FFileNumber>028-15394</form13FFileNumber>
+            <name>Overlook Investments (BVI) Ltd</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>2</sequenceNumber>
+          <otherManager>
+            <cik>0001350706</cik>
+            <form13FFileNumber>028-15422</form13FFileNumber>
+            <name>Overlook Investments LP</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>3</sequenceNumber>
+          <otherManager>
+            <cik>0001569763</cik>
+            <form13FFileNumber>028-15395</form13FFileNumber>
+            <name>Overlook Investments Ltd</name>
+          </otherManager>
+        </otherManager2>
+      </otherManagers2Info>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>a16-8050_1informationtable.xml
+<DESCRIPTION>INFORMATION TABLE
+<TEXT>
+<XML>
+<informationTable xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <infoTable>
+    <nameOfIssuer>NETEASE INC.</nameOfIssuer>
+    <titleOfClass>ADR</titleOfClass>
+    <cusip>64110W102</cusip>
+    <value>226191</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1575914</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2,3</otherManager>
+    <votingAuthority>
+      <Sole>1575914</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+</informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
