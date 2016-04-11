@@ -1,8 +1,30 @@
+## How to Run Scripts:
+
+-	Please see dependecies section (below first)
+
+-  import database dump located in project directory: 
+		filename: oquantdatabase.sql
+
+-  This is not necessary unless you want to download all the data all over again.
+-  The scripts would do it otherwise without prompting.
+
+-   cd serverapp/data/
+
+RUN:	python download_and_analyse.py
+
+RUN:	python cikparser_dbloader.py
+
+-   cd serverapp/
+
+RUN: 	python app.py
+
+-	Open client:
+		0.0.0.0/9999 from browser: 
+		(Tested on Chrome)
+
 ## Dependencies 
--------------- All Dependencies---------------
 
 - Python 2.7 (Anaconda distro) x64 ubuntu
-
 	- psycopg2  		2.6.1 
 	- postgresql-9.4 
 	- sqlalchemy
@@ -24,26 +46,6 @@
 	- lxml
 	- re
 
-## How to Run Scripts:
-
--  import database dump located in project directory: 
-		filename: oquantdatabase.sql
-
--  This is not necessary unless you want to download all the data all over again.
--  The scripts would do it otherwise without prompting.
-
--   cd hedgefundproject/serverapp/data/
-
-RUN:	python download_and_analyse.py
-RUN:	python cikparser_dbloader.py
-
--   cd hedgefundproject/serverapp/
-
-RUN: 	python app.py
-
--	Open client:
-		0.0.0.0/9999 from browser: 
-		(Tested on Chrome)
 
 ### Postgres Credentials and Setup
 
@@ -76,6 +78,7 @@ $ sudo -u postgres createdb oquantdatabase
 
 
 -------local machine database connection--------
+
 user: irtza
 password : hedgefund
 database : oquantdatabase
