@@ -1,4 +1,4 @@
-Hackweek Project for oquant.com
+Hackweek Project
 
 ## How to Run Scripts:
 
